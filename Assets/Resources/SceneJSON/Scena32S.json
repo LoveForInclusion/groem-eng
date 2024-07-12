@@ -1,0 +1,95 @@
+{
+    "sceneName": "Scena32S",
+    "background": "groem 17 sfondo aquila-01",
+    "camera": {
+        "startPoint": {
+            "x": 2.2100000381469728,
+            "y": -2.200000047683716,
+            "z": -10.0
+        },
+        "size": 3.0,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "Aquila",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": true,
+            "idleState": 0,
+            "start": {
+                "x": 4.539999961853027,
+                "y": -3.509999990463257
+            },
+            "scale": {
+                "x": 0.800000011920929,
+                "y": 0.800000011920929
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "topigirotondo",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": 0.9800000190734863,
+                "y": -2.7699999809265138
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": "Abbraccio"
+        },
+        {
+            "name": "sacco",
+            "type": 1,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -2.809999942779541,
+                "y": -0.75
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartAquila",
+            "position": {
+                "x": 4.539999961853027,
+                "y": -3.509999990463257
+            },
+            "scale": {
+                "x": 0.800000011920929,
+                "y": 0.800000011920929
+            }
+        },
+        {
+            "name": "StartTopi",
+            "position": {
+                "x": 0.9800000190734863,
+                "y": -2.7699999809265138
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}

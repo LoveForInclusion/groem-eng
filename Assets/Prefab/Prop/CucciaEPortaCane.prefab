@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &623063918206762204
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3536018251599311197}
+  - component: {fileID: 6473054247492602416}
+  - component: {fileID: 8916969228761314167}
+  m_Layer: 0
+  m_Name: CucciaEPortaCane
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3536018251599311197
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 623063918206762204}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.0717201, y: 0.11824042, z: -10.999212}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5664434184362094301}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &6473054247492602416
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 623063918206762204}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: af1394c6685be9c4eb9f60f5a2b431f3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &8916969228761314167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 623063918206762204}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aab6d528efbde4a4caa125fb9cff5ae7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idleState: 0
+--- !u!1001 &1303729714918853537
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3536018251599311197}
+    m_Modifications:
+    - target: {fileID: -7673046760795740565, guid: 81fd48702377abe44bdad3958b9fa827,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 202
+      objectReference: {fileID: 0}
+    - target: {fileID: -6239813939765807878, guid: 81fd48702377abe44bdad3958b9fa827,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 201
+      objectReference: {fileID: 0}
+    - target: {fileID: -5351111418254936463, guid: 81fd48702377abe44bdad3958b9fa827,
+        type: 3}
+      propertyPath: m_Name
+      value: CucciaEPortaCane
+      objectReference: {fileID: 0}
+    - target: {fileID: -812940194718311977, guid: 81fd48702377abe44bdad3958b9fa827,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: -99
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668665178066216316, guid: 81fd48702377abe44bdad3958b9fa827,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668665178066216316, guid: 81fd48702377abe44bdad3958b9fa827,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.0717201
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668665178066216316, guid: 81fd48702377abe44bdad3958b9fa827,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.11824042
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668665178066216316, guid: 81fd48702377abe44bdad3958b9fa827,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10.999212
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668665178066216316, guid: 81fd48702377abe44bdad3958b9fa827,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668665178066216316, guid: 81fd48702377abe44bdad3958b9fa827,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668665178066216316, guid: 81fd48702377abe44bdad3958b9fa827,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668665178066216316, guid: 81fd48702377abe44bdad3958b9fa827,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668665178066216316, guid: 81fd48702377abe44bdad3958b9fa827,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668665178066216316, guid: 81fd48702377abe44bdad3958b9fa827,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668665178066216316, guid: 81fd48702377abe44bdad3958b9fa827,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6868553513638118089, guid: 81fd48702377abe44bdad3958b9fa827,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 200
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: -1324719231075686125, guid: 81fd48702377abe44bdad3958b9fa827,
+    type: 3}
+--- !u!4 &5664434184362094301 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6668665178066216316, guid: 81fd48702377abe44bdad3958b9fa827,
+    type: 3}
+  m_PrefabInstance: {fileID: 1303729714918853537}
+  m_PrefabAsset: {fileID: 0}

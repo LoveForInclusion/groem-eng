@@ -1,0 +1,68 @@
+{
+    "sceneName": "Scena9S",
+    "background": "5-6-01",
+    "camera": {
+        "startPoint": {
+            "x": -0.20000000298023225,
+            "y": -0.15000000596046449,
+            "z": -10.0
+        },
+        "size": 3.5399999618530275,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "PinoFront",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -3.490000009536743,
+                "y": -2.3299999237060549
+            },
+            "scale": {
+                "x": 0.6000000238418579,
+                "y": 0.6000000238418579
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "CucciaEPortaCane",
+            "type": 1,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 2,
+            "start": {
+                "x": 0.13876700401306153,
+                "y": -1.3464322090148926
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartPinofront",
+            "position": {
+                "x": -3.490000009536743,
+                "y": -2.3299999237060549
+            },
+            "scale": {
+                "x": 0.6000000238418579,
+                "y": 0.6000000238418579
+            }
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 556090373
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6150bfbd3e124cec168c64826282470e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8084345b0d0acacdd60c3b7da7d5b901
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: aab6d528efbde4a4caa125fb9cff5ae7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefab/Prop/saccochiuso.prefab
+Dependencies: []

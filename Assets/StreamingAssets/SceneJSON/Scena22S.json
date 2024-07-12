@@ -1,0 +1,95 @@
+{
+    "sceneName": "Scena22S",
+    "background": "BGAsino",
+    "camera": {
+        "startPoint": {
+            "x": -0.3400000035762787,
+            "y": -0.7699999809265137,
+            "z": -10.0
+        },
+        "size": 3.5,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "PortaCiuccio",
+            "type": 1,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -1.7599999904632569,
+                "y": -3.049999952316284
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "Asino34",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": true,
+            "idleState": 0,
+            "start": {
+                "x": -1.649999976158142,
+                "y": -2.5299999713897707
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "Pinoside",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -4.039999961853027,
+                "y": -2.359999895095825
+            },
+            "scale": {
+                "x": 0.6000000238418579,
+                "y": 0.6000000238418579
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartPino",
+            "position": {
+                "x": -4.039999961853027,
+                "y": -2.359999895095825
+            },
+            "scale": {
+                "x": 0.6899999976158142,
+                "y": 0.6899999976158142
+            }
+        },
+        {
+            "name": "StartAsino34",
+            "position": {
+                "x": -1.649999976158142,
+                "y": -2.5299999713897707
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}

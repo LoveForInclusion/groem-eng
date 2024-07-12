@@ -1,0 +1,128 @@
+{
+    "sceneName": "Scena29S",
+    "background": "groem 17 sfondo aquila-01",
+    "camera": {
+        "startPoint": {
+            "x": 2.2699999809265138,
+            "y": -0.3100000023841858,
+            "z": -10.0
+        },
+        "size": 4.5,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "Pinoside",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -3.009999990463257,
+                "y": -3.049999713897705
+            },
+            "scale": {
+                "x": 0.6000000238418579,
+                "y": 0.6000000238418579
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "Aquila",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": true,
+            "idleState": 0,
+            "start": {
+                "x": 8.8100004196167,
+                "y": -0.17000000178813935
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "SaccoChiusoAct",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": 8.0,
+                "y": 0.33000001311302187
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartPino",
+            "position": {
+                "x": -3.009999990463257,
+                "y": -3.049999713897705
+            },
+            "scale": {
+                "x": 0.6000000238418579,
+                "y": 0.6000000238418579
+            }
+        },
+        {
+            "name": "EndAquila",
+            "position": {
+                "x": 0.4500001072883606,
+                "y": 0.1599999964237213
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "StartAquila",
+            "position": {
+                "x": 8.8100004196167,
+                "y": -0.17000000178813935
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "StartSacco",
+            "position": {
+                "x": 8.0,
+                "y": 0.33000001311302187
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "EndSacco",
+            "position": {
+                "x": -0.2999999523162842,
+                "y": 0.4399999976158142
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}

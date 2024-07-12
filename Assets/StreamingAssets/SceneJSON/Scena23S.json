@@ -1,0 +1,63 @@
+{
+    "sceneName": "Scena23S",
+    "background": "sfondo aquila-02-02",
+    "camera": {
+        "startPoint": {
+            "x": -0.3400000035762787,
+            "y": -0.7699999809265137,
+            "z": -10.0
+        },
+        "size": 3.5,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "Pinoside",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -7.53000020980835,
+                "y": -1.8799999952316285
+            },
+            "scale": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartPino",
+            "position": {
+                "x": -7.53000020980835,
+                "y": -1.8799999952316285
+            },
+            "scale": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "name": "EndPino",
+            "position": {
+                "x": 9.180000305175782,
+                "y": -2.1500000953674318
+            },
+            "scale": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ]
+}

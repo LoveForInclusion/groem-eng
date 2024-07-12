@@ -1,0 +1,23 @@
+{
+    "sceneName": "Scena0",
+    "background": "thumbnail",
+    "camera": {
+        "startPoint": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -10.0
+        },
+        "size": 5.0,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [],
+    "waypoints": []
+}

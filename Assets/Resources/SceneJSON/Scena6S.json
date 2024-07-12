@@ -1,0 +1,63 @@
+{
+    "sceneName": "Scena6S",
+    "background": "5-6-01",
+    "camera": {
+        "startPoint": {
+            "x": -0.3400000035762787,
+            "y": -0.7699999809265137,
+            "z": -10.0
+        },
+        "size": 3.6600000858306886,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "Pinoside",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -8.25,
+                "y": -2.049999952316284
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartPinoside",
+            "position": {
+                "x": -8.25,
+                "y": -2.049999952316284
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "EndPinoside",
+            "position": {
+                "x": 0.009999999776482582,
+                "y": -2.0299999713897707
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}

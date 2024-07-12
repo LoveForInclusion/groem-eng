@@ -1,0 +1,52 @@
+{
+    "sceneName": "Scena23E",
+    "background": "groem 17-01",
+    "camera": {
+        "startPoint": {
+            "x": 2.0799999237060549,
+            "y": -1.159999966621399,
+            "z": -10.0
+        },
+        "size": 4.0,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "PinoFront",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": 0.0,
+                "y": -2.9700000286102297
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartPino",
+            "position": {
+                "x": 0.0,
+                "y": -2.9700000286102297
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}

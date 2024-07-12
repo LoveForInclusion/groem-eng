@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 28419073
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4af9198aa4cd4889bc0f908119d064ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f7dfefb49417ba49b98970eab54c1df1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UIElements/test ui 01/solotasti-02.png
+- Assets/UIElements/test ui 01/AudioOption/Senza titolo-6-03.png
+- Assets/UIElements/test ui 01/solotasti-04.png
+- Assets/UIElements/test ui 01/TASTO CHIUDI .png
+- Assets/UIElements/test ui 01/solotasti-03.png
+- Assets/UIElements/test ui 01/cerchio.png
+- Assets/UIElements/test ui 01/AudioOption/Senza titolo-6-04.png
+- Assets/UIElements/test ui 01/AudioOption/Senza titolo-6-01.png
+- Assets/Font/Quicksand-Light.ttf
+- Assets/Font/Quicksand-Medium.ttf
+- Assets/UIElements/test ui 01/AudioOption/Senza titolo-6-05.png
+- Assets/Font/Quicksand-Bold.ttf
+- Assets/Font/Quicksand-Regular.ttf
+- Assets/UIElements/test ui 01/chiudi-03.png
+- Assets/UIElements/test ui 01/Login/Senza titolo-6-04.png
+Dependencies: []

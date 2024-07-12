@@ -1,0 +1,79 @@
+{
+    "sceneName": "Scena10E",
+    "background": "groem8 trans_Tavola disegno 1",
+    "camera": {
+        "startPoint": {
+            "x": 2.799999952316284,
+            "y": 0.019999999552965165,
+            "z": -10.0
+        },
+        "size": 4.699999809265137,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "Pinoside",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -8.720000267028809,
+                "y": -2.3299999237060549
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "Cespuglio8trans",
+            "type": 1,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -6.960000038146973,
+                "y": -3.2300000190734865
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartPino",
+            "position": {
+                "x": -8.800000190734864,
+                "y": -2.2899999618530275
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "EndPino",
+            "position": {
+                "x": 6.010000228881836,
+                "y": -2.2899999618530275
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}

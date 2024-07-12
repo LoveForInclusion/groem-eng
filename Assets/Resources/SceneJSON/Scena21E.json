@@ -1,0 +1,79 @@
+{
+    "sceneName": "Scena21E",
+    "background": "groem 17-01",
+    "camera": {
+        "startPoint": {
+            "x": 2.450000047683716,
+            "y": 0.07999999821186066,
+            "z": -10.0
+        },
+        "size": 5.0,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "Aquila",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": true,
+            "idleState": 0,
+            "start": {
+                "x": 1.3600000143051148,
+                "y": -4.059999942779541
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "Pinoside",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -2.3499999046325685,
+                "y": -3.059999942779541
+            },
+            "scale": {
+                "x": 0.6000000238418579,
+                "y": 0.6000000238418579
+            },
+            "stateLayer": "GuardaAlto"
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartPino",
+            "position": {
+                "x": -2.3499999046325685,
+                "y": -3.059999942779541
+            },
+            "scale": {
+                "x": 0.6000000238418579,
+                "y": 0.6000000238418579
+            }
+        },
+        {
+            "name": "StartAquila",
+            "position": {
+                "x": 1.3600000143051148,
+                "y": -4.059999942779541
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2017261478
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa7c96238ac1a42f1acc98b6b9e309f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/image/SfondiGroem/groem 17 sfondo aquila-01.png
+Dependencies: []

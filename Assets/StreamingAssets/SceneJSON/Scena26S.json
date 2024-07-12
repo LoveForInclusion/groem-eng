@@ -1,0 +1,90 @@
+{
+    "sceneName": "Scena26S",
+    "background": "groem 17-01",
+    "camera": {
+        "startPoint": {
+            "x": -0.3400000035762787,
+            "y": -0.7699999809265137,
+            "z": -10.0
+        },
+        "size": 3.5,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "Aquila",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": true,
+            "idleState": 0,
+            "start": {
+                "x": 0.7200000286102295,
+                "y": -3.7200000286102297
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "Pinoside",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -3.9100000858306886,
+                "y": -2.4200000762939455
+            },
+            "scale": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartPino",
+            "position": {
+                "x": -3.9100000858306886,
+                "y": -2.4200000762939455
+            },
+            "scale": {
+                "x": 0.6399999856948853,
+                "y": 0.6399999856948853
+            }
+        },
+        {
+            "name": "StartAquila",
+            "position": {
+                "x": 0.7200000286102295,
+                "y": -3.7200000286102297
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "EndAquila",
+            "position": {
+                "x": -7.230000019073486,
+                "y": 4.019999980926514
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}

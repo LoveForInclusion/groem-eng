@@ -1,0 +1,117 @@
+{
+    "sceneName": "Scena4S",
+    "background": "thumbnail (2)",
+    "camera": {
+        "startPoint": {
+            "x": -0.3400000035762787,
+            "y": -0.7699999809265137,
+            "z": -10.0
+        },
+        "size": 3.4800000190734865,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "topigirotondo",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": 0.11999999731779099,
+                "y": -1.7660000324249268
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": "Accorse"
+        },
+        {
+            "name": "Groem",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -2.9000000953674318,
+                "y": -0.27000001072883608
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": "Albero"
+        },
+        {
+            "name": "albero",
+            "type": 1,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -3.7200000286102297,
+                "y": 2.7300000190734865
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartPino",
+            "position": {
+                "x": 0.12000000476837158,
+                "y": -1.7660000324249268
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "StartGroem",
+            "position": {
+                "x": -2.930000066757202,
+                "y": 0.1599999964237213
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "MiddleGroem",
+            "position": {
+                "x": -1.0099999904632569,
+                "y": -0.2800000011920929
+            },
+            "scale": {
+                "x": 0.8399999737739563,
+                "y": 0.8399999737739563
+            }
+        },
+        {
+            "name": "EndGroem",
+            "position": {
+                "x": -1.6699999570846558,
+                "y": -2.190000057220459
+            },
+            "scale": {
+                "x": 0.7599999904632568,
+                "y": 0.7599999904632568
+            }
+        }
+    ]
+}

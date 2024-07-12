@@ -1,0 +1,79 @@
+{
+    "sceneName": "Scena20E",
+    "background": "groem 17-01",
+    "camera": {
+        "startPoint": {
+            "x": 2.0399999618530275,
+            "y": 0.03999999910593033,
+            "z": -10.0
+        },
+        "size": 5.0,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "PinoFront",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -3.319999933242798,
+                "y": -2.700000047683716
+            },
+            "scale": {
+                "x": 0.800000011920929,
+                "y": 0.800000011920929
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "Aquila",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": true,
+            "idleState": 0,
+            "start": {
+                "x": 0.6200000047683716,
+                "y": -3.940000057220459
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartPino",
+            "position": {
+                "x": -3.319999933242798,
+                "y": -2.700000047683716
+            },
+            "scale": {
+                "x": 0.800000011920929,
+                "y": 0.800000011920929
+            }
+        },
+        {
+            "name": "StartAquila",
+            "position": {
+                "x": 0.6200000047683716,
+                "y": -3.940000057220459
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}

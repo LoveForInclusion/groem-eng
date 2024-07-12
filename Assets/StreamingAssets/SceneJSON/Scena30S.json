@@ -1,0 +1,117 @@
+{
+    "sceneName": "Scena30S",
+    "background": "groem 17 sfondo aquila-01",
+    "camera": {
+        "startPoint": {
+            "x": -0.3400000035762787,
+            "y": -0.7699999809265137,
+            "z": -10.0
+        },
+        "size": 4.0,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "Pinoside",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -3.9700000286102297,
+                "y": -2.619999885559082
+            },
+            "scale": {
+                "x": 0.6000000238418579,
+                "y": 0.6000000238418579
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "Aquila",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": true,
+            "idleState": 0,
+            "start": {
+                "x": 0.029999999329447748,
+                "y": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "Topisacco",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": 1.1807339191436768,
+                "y": -0.4747888743877411
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": "3"
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartPino",
+            "position": {
+                "x": -3.9700000286102297,
+                "y": -2.619999885559082
+            },
+            "scale": {
+                "x": 0.6000000238418579,
+                "y": 0.6000000238418579
+            }
+        },
+        {
+            "name": "StartAquila",
+            "position": {
+                "x": 0.029999999329447748,
+                "y": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "Startsacco",
+            "position": {
+                "x": 0.029999999329447748,
+                "y": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "Endsacco",
+            "position": {
+                "x": 0.10000000149011612,
+                "y": -2.440000057220459
+            },
+            "scale": {
+                "x": 0.9399999976158142,
+                "y": 0.9399999976158142
+            }
+        }
+    ]
+}

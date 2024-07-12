@@ -1,0 +1,68 @@
+{
+    "sceneName": "Scena16E",
+    "background": "BGAsino",
+    "camera": {
+        "startPoint": {
+            "x": 0.7900000214576721,
+            "y": -0.3700000047683716,
+            "z": -10.0
+        },
+        "size": 3.799999952316284,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "PortaCiuccio",
+            "type": 1,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 2,
+            "start": {
+                "x": -1.7300000190734864,
+                "y": -3.0299999713897707
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "PinoFront",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -3.009999990463257,
+                "y": -3.569999933242798
+            },
+            "scale": {
+                "x": 0.800000011920929,
+                "y": 0.800000011920929
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartPino",
+            "position": {
+                "x": -3.009999990463257,
+                "y": -3.569999933242798
+            },
+            "scale": {
+                "x": 0.800000011920929,
+                "y": 0.800000011920929
+            }
+        }
+    ]
+}

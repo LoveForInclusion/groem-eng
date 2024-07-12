@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1921445660
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44e9fddc62d88395277741020a63dffa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8084345b0d0acacdd60c3b7da7d5b901
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: aab6d528efbde4a4caa125fb9cff5ae7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefab/Prop/albero.prefab
+Dependencies: []

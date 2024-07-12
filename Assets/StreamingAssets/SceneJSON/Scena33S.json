@@ -1,0 +1,90 @@
+{
+    "sceneName": "Scena33S",
+    "background": "groem 17 sfondo aquila-01",
+    "camera": {
+        "startPoint": {
+            "x": 4.28000020980835,
+            "y": -0.7599999904632568,
+            "z": -10.0
+        },
+        "size": 4.0,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "Aquila",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": true,
+            "idleState": 0,
+            "start": {
+                "x": 3.619999885559082,
+                "y": -2.180000066757202
+            },
+            "scale": {
+                "x": 0.6000000238418579,
+                "y": 0.6000000238418579
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "topigirotondo",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": 0.6000000238418579,
+                "y": -2.609999895095825
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartAquila",
+            "position": {
+                "x": 3.619999885559082,
+                "y": -2.180000066757202
+            },
+            "scale": {
+                "x": 0.6000000238418579,
+                "y": 0.6000000238418579
+            }
+        },
+        {
+            "name": "EndAquila",
+            "position": {
+                "x": -6.010000228881836,
+                "y": 4.150000095367432
+            },
+            "scale": {
+                "x": 0.6000000238418579,
+                "y": 0.6000000238418579
+            }
+        },
+        {
+            "name": "StartTopi",
+            "position": {
+                "x": 0.6000000238418579,
+                "y": -2.609999895095825
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}

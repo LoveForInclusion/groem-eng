@@ -1,0 +1,23 @@
+{
+    "sceneName": "ScenaFinal",
+    "background": "SfondoFineStoria",
+    "camera": {
+        "startPoint": {
+            "x": 0.0,
+            "y": -0.20000000298023225,
+            "z": -10.0
+        },
+        "size": 5.199999809265137,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [],
+    "waypoints": []
+}

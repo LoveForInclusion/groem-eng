@@ -1,0 +1,355 @@
+ManifestFileVersion: 0
+CRC: 4257379414
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: shared/graphics/graphics_0
+      Dependencies: {}
+    Info_1:
+      Name: sceneskip/scenes elb
+      Dependencies: {}
+    Info_2:
+      Name: shared/scenecontrollers
+      Dependencies: {}
+    Info_3:
+      Name: comprensione
+      Dependencies:
+        Dependency_0: shared/graphics/graphics_0
+        Dependency_1: shared/game
+    Info_4:
+      Name: verofalso
+      Dependencies:
+        Dependency_0: shared/graphics/graphics_0
+        Dependency_1: shared/game
+    Info_5:
+      Name: home
+      Dependencies:
+        Dependency_0: shared/graphics/graphics_0
+        Dependency_1: shared/scenecontrollers
+    Info_6:
+      Name: completa
+      Dependencies:
+        Dependency_0: shared/graphics/graphics_0
+        Dependency_1: shared/scenecontrollers
+        Dependency_2: shared/game
+    Info_7:
+      Name: sceneskip/scenes smp
+      Dependencies: {}
+    Info_8:
+      Name: memory
+      Dependencies:
+        Dependency_0: shared/graphics/graphics_0
+    Info_9:
+      Name: record
+      Dependencies:
+        Dependency_0: shared/graphics/graphics_0
+    Info_10:
+      Name: shared/game
+      Dependencies: {}
+    Info_11:
+      Name: background/groem 17 sfondo aquila-01
+      Dependencies: {}
+    Info_12:
+      Name: prop/portaciuccio
+      Dependencies: {}
+    Info_13:
+      Name: controller/scena7s
+      Dependencies: {}
+    Info_14:
+      Name: controller/scena28s
+      Dependencies: {}
+    Info_15:
+      Name: controller/scena18s
+      Dependencies: {}
+    Info_16:
+      Name: controller/scenafinal
+      Dependencies: {}
+    Info_17:
+      Name: controller/scena17e
+      Dependencies: {}
+    Info_18:
+      Name: controller/scena27e
+      Dependencies: {}
+    Info_19:
+      Name: actor/pinoscappadagroem
+      Dependencies: {}
+    Info_20:
+      Name: background/groem8 trans_tavola disegno 1
+      Dependencies: {}
+    Info_21:
+      Name: prop/saccochiuso
+      Dependencies: {}
+    Info_22:
+      Name: controller/scena30s
+      Dependencies: {}
+    Info_23:
+      Name: controller/scena20s
+      Dependencies: {}
+    Info_24:
+      Name: controller/scena10s
+      Dependencies: {}
+    Info_25:
+      Name: controller/scena3e
+      Dependencies: {}
+    Info_26:
+      Name: controller/scena1e
+      Dependencies: {}
+    Info_27:
+      Name: actor/topigirotondo
+      Dependencies: {}
+    Info_28:
+      Name: actor/aquila
+      Dependencies: {}
+    Info_29:
+      Name: background/thumbnail 1
+      Dependencies: {}
+    Info_30:
+      Name: controller/scena33s
+      Dependencies: {}
+    Info_31:
+      Name: controller/scena23s
+      Dependencies: {}
+    Info_32:
+      Name: controller/scena13s
+      Dependencies: {}
+    Info_33:
+      Name: controller/scena6e
+      Dependencies: {}
+    Info_34:
+      Name: controller/scena22e
+      Dependencies: {}
+    Info_35:
+      Name: controller/scena12e
+      Dependencies: {}
+    Info_36:
+      Name: actor/volpefront
+      Dependencies: {}
+    Info_37:
+      Name: actor/cane34
+      Dependencies: {}
+    Info_38:
+      Name: background/volpe9-20
+      Dependencies: {}
+    Info_39:
+      Name: background/bgasino
+      Dependencies: {}
+    Info_40:
+      Name: prop/cespuglio8trans
+      Dependencies: {}
+    Info_41:
+      Name: controller/scena5s
+      Dependencies: {}
+    Info_42:
+      Name: controller/scena26s
+      Dependencies: {}
+    Info_43:
+      Name: controller/scena16s
+      Dependencies: {}
+    Info_44:
+      Name: controller/scena9e
+      Dependencies: {}
+    Info_45:
+      Name: controller/scena25e
+      Dependencies: {}
+    Info_46:
+      Name: controller/scena15e
+      Dependencies: {}
+    Info_47:
+      Name: actor/pinoback
+      Dependencies: {}
+    Info_48:
+      Name: background/groem 17-01
+      Dependencies: {}
+    Info_49:
+      Name: prop/portavolpe
+      Dependencies: {}
+    Info_50:
+      Name: controller/scena8s
+      Dependencies: {}
+    Info_51:
+      Name: controller/scena29s
+      Dependencies: {}
+    Info_52:
+      Name: controller/scena19s
+      Dependencies: {}
+    Info_53:
+      Name: controller/scena28e
+      Dependencies: {}
+    Info_54:
+      Name: controller/scena18e
+      Dependencies: {}
+    Info_55:
+      Name: actor/pinoside
+      Dependencies: {}
+    Info_56:
+      Name: background/sfondo aquila-02-02
+      Dependencies: {}
+    Info_57:
+      Name: prop/topifermi
+      Dependencies: {}
+    Info_58:
+      Name: controller/scena31s
+      Dependencies: {}
+    Info_59:
+      Name: controller/scena21s
+      Dependencies: {}
+    Info_60:
+      Name: controller/scena11s
+      Dependencies: {}
+    Info_61:
+      Name: controller/scena4e
+      Dependencies: {}
+    Info_62:
+      Name: controller/scena20e
+      Dependencies: {}
+    Info_63:
+      Name: controller/scena10e
+      Dependencies: {}
+    Info_64:
+      Name: actor/topisacco
+      Dependencies: {}
+    Info_65:
+      Name: actor/asino34
+      Dependencies: {}
+    Info_66:
+      Name: background/thumbnail
+      Dependencies: {}
+    Info_67:
+      Name: background/44groem-11_tavola disegno 1
+      Dependencies: {}
+    Info_68:
+      Name: prop/albero
+      Dependencies: {}
+    Info_69:
+      Name: controller/scena3s
+      Dependencies: {}
+    Info_70:
+      Name: controller/scena24s
+      Dependencies: {}
+    Info_71:
+      Name: controller/scena14s
+      Dependencies: {}
+    Info_72:
+      Name: controller/scena7e
+      Dependencies: {}
+    Info_73:
+      Name: controller/scena23e
+      Dependencies: {}
+    Info_74:
+      Name: controller/scena13e
+      Dependencies: {}
+    Info_75:
+      Name: actor/canefront
+      Dependencies: {}
+    Info_76:
+      Name: background/copertina cattivissimo groem-03
+      Dependencies: {}
+    Info_77:
+      Name: prop/cucciaeportacane
+      Dependencies: {}
+    Info_78:
+      Name: controller/scena6s
+      Dependencies: {}
+    Info_79:
+      Name: controller/scena27s
+      Dependencies: {}
+    Info_80:
+      Name: controller/scena17s
+      Dependencies: {}
+    Info_81:
+      Name: controller/scena0
+      Dependencies:
+        Dependency_0: shared/graphics/graphics_0
+    Info_82:
+      Name: controller/scena26e
+      Dependencies: {}
+    Info_83:
+      Name: controller/scena16e
+      Dependencies: {}
+    Info_84:
+      Name: actor/pinofront
+      Dependencies: {}
+    Info_85:
+      Name: background/groem 5 trans_tavola disegno 1
+      Dependencies: {}
+    Info_86:
+      Name: prop/sacco
+      Dependencies: {}
+    Info_87:
+      Name: controller/scena9s
+      Dependencies: {}
+    Info_88:
+      Name: controller/scena2s
+      Dependencies: {}
+    Info_89:
+      Name: controller/scena1s
+      Dependencies: {}
+    Info_90:
+      Name: controller/scena2e
+      Dependencies: {}
+    Info_91:
+      Name: controller/scena19e
+      Dependencies: {}
+    Info_92:
+      Name: actor/saccochiusoact
+      Dependencies: {}
+    Info_93:
+      Name: background/thumbnail (2)
+      Dependencies: {}
+    Info_94:
+      Name: controller/scena32s
+      Dependencies: {}
+    Info_95:
+      Name: controller/scena22s
+      Dependencies: {}
+    Info_96:
+      Name: controller/scena12s
+      Dependencies: {}
+    Info_97:
+      Name: controller/scena5e
+      Dependencies: {}
+    Info_98:
+      Name: controller/scena11e
+      Dependencies: {}
+    Info_99:
+      Name: controller/scena21e
+      Dependencies: {}
+    Info_100:
+      Name: actor/volpe34
+      Dependencies: {}
+    Info_101:
+      Name: actor/asinofront
+      Dependencies: {}
+    Info_102:
+      Name: background/thumbnail3
+      Dependencies: {}
+    Info_103:
+      Name: background/5-6-01
+      Dependencies: {}
+    Info_104:
+      Name: prop/cespuglio
+      Dependencies: {}
+    Info_105:
+      Name: controller/scena4s
+      Dependencies: {}
+    Info_106:
+      Name: controller/scena25s
+      Dependencies: {}
+    Info_107:
+      Name: controller/scena15s
+      Dependencies: {}
+    Info_108:
+      Name: controller/scena8e
+      Dependencies: {}
+    Info_109:
+      Name: controller/scena24e
+      Dependencies: {}
+    Info_110:
+      Name: controller/scena14e
+      Dependencies: {}
+    Info_111:
+      Name: actor/groem
+      Dependencies: {}
+    Info_112:
+      Name: actor/aquilaombra
+      Dependencies: {}

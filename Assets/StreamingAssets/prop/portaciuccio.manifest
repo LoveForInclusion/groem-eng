@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2451624054
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7e9b7554195b9b86108a130913d2ece
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c838274e80ec6697c851f3735add78b0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: aab6d528efbde4a4caa125fb9cff5ae7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefab/Prop/PortaCiuccio.prefab
+Dependencies: []

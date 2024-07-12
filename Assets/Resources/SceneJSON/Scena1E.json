@@ -1,0 +1,52 @@
+{
+    "sceneName": "Scena1E",
+    "background": "44groem-11_Tavola disegno 1",
+    "camera": {
+        "startPoint": {
+            "x": 3.0,
+            "y": 0.0,
+            "z": -10.0
+        },
+        "size": 5.0,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "topigirotondo",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": 0.11999999731779099,
+                "y": -2.4000000953674318
+            },
+            "scale": {
+                "x": 2.0,
+                "y": 2.0
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartWP",
+            "position": {
+                "x": 0.11999999731779099,
+                "y": -2.4000000953674318
+            },
+            "scale": {
+                "x": 2.0,
+                "y": 2.0
+            }
+        }
+    ]
+}

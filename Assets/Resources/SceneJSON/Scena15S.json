@@ -1,0 +1,106 @@
+{
+    "sceneName": "Scena15S",
+    "background": "volpe9-20",
+    "camera": {
+        "startPoint": {
+            "x": -0.3400000035762787,
+            "y": -0.7699999809265137,
+            "z": -10.0
+        },
+        "size": 3.5999999046325685,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "VolpeFront",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -1.190000057220459,
+                "y": -1.3910000324249268
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "Pinoside",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -3.819999933242798,
+                "y": -2.009999990463257
+            },
+            "scale": {
+                "x": 0.6000000238418579,
+                "y": 0.6000000238418579
+            },
+            "stateLayer": "GuardaAlto"
+        },
+        {
+            "name": "PortaVolpe",
+            "type": 1,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 2,
+            "start": {
+                "x": -1.9700000286102296,
+                "y": -1.7699999809265137
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartPinoside",
+            "position": {
+                "x": -3.819999933242798,
+                "y": -2.009999990463257
+            },
+            "scale": {
+                "x": 0.6000000238418579,
+                "y": 0.6000000238418579
+            }
+        },
+        {
+            "name": "StartVolpefront",
+            "position": {
+                "x": -1.190000057220459,
+                "y": -1.3910000324249268
+            },
+            "scale": {
+                "x": 0.8999999761581421,
+                "y": 0.8999999761581421
+            }
+        },
+        {
+            "name": "EndVolpeFront",
+            "position": {
+                "x": -1.190000057220459,
+                "y": -1.9240000247955323
+            },
+            "scale": {
+                "x": 1.2999999523162842,
+                "y": 1.2999999523162842
+            }
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "sceneName": "Scena27E",
+    "background": "groem 17 sfondo aquila-01",
+    "camera": {
+        "startPoint": {
+            "x": 0.15000000596046449,
+            "y": -0.7699999809265137,
+            "z": -10.0
+        },
+        "size": 4.0,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "Aquila",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": true,
+            "idleState": 0,
+            "start": {
+                "x": -1.8300000429153443,
+                "y": -3.2100000381469728
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "Pinoside",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -3.2100000381469728,
+                "y": -3.059999942779541
+            },
+            "scale": {
+                "x": 0.4000000059604645,
+                "y": 0.4000000059604645
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "topigirotondo",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -1.2400000095367432,
+                "y": -2.6700000762939455
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "sacco",
+            "type": 1,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -4.800000190734863,
+                "y": -1.4500000476837159
+            },
+            "scale": {
+                "x": 1.2000000476837159,
+                "y": 1.2000000476837159
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "Topisacco",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -2.319999933242798,
+                "y": -2.8399999141693117
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": "chiuso"
+        },
+        {
+            "name": "PinoFront",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -10.0600004196167,
+                "y": -8.529999732971192
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartAquila",
+            "position": {
+                "x": -9.510000228881836,
+                "y": -6.639999866485596
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "StartPino",
+            "position": {
+                "x": -3.2100000381469728,
+                "y": -3.059999942779541
+            },
+            "scale": {
+                "x": 0.4000000059604645,
+                "y": 0.4000000059604645
+            }
+        },
+        {
+            "name": "StartTopiSacco",
+            "position": {
+                "x": -2.319999933242798,
+                "y": -2.8399999141693117
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "EndTopiSacco",
+            "position": {
+                "x": -1.2400000095367432,
+                "y": -2.6700000762939455
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "Wpfront0",
+            "position": {
+                "x": -10.0600004196167,
+                "y": -8.529999732971192
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "Wpfront1",
+            "position": {
+                "x": -3.0299999713897707,
+                "y": -3.0799999237060549
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}

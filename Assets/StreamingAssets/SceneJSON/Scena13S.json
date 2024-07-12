@@ -1,0 +1,63 @@
+{
+    "sceneName": "Scena13S",
+    "background": "groem8 trans_Tavola disegno 1",
+    "camera": {
+        "startPoint": {
+            "x": -0.3400000035762787,
+            "y": -0.7699999809265137,
+            "z": -10.0
+        },
+        "size": 3.5299999713897707,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "Pinoside",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -7.230000019073486,
+                "y": -2.2300000190734865
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartPinoside",
+            "position": {
+                "x": -7.230000019073486,
+                "y": -2.2300000190734865
+            },
+            "scale": {
+                "x": 0.5799999833106995,
+                "y": 0.5799999833106995
+            }
+        },
+        {
+            "name": "EndPinoside",
+            "position": {
+                "x": 9.3100004196167,
+                "y": -2.380000114440918
+            },
+            "scale": {
+                "x": 0.5799999833106995,
+                "y": 0.5799999833106995
+            }
+        }
+    ]
+}

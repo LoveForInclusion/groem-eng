@@ -1,0 +1,106 @@
+{
+    "sceneName": "Scena8E",
+    "background": "5-6-01",
+    "camera": {
+        "startPoint": {
+            "x": -0.7200000286102295,
+            "y": 0.009999999776482582,
+            "z": -10.0
+        },
+        "size": 3.0,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "CucciaEPortaCane",
+            "type": 1,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 2,
+            "start": {
+                "x": 0.1599999964237213,
+                "y": -1.399999976158142
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "CaneFront",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -1.9500000476837159,
+                "y": -0.9309999942779541
+            },
+            "scale": {
+                "x": 0.8500000238418579,
+                "y": 0.8500000238418579
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "Pinoside",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -3.2300000190734865,
+                "y": -1.8940000534057618
+            },
+            "scale": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "stateLayer": "GuardaAlto"
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartCaneFront",
+            "position": {
+                "x": -1.9500000476837159,
+                "y": -0.9309999942779541
+            },
+            "scale": {
+                "x": 0.8500000238418579,
+                "y": 0.8500000238418579
+            }
+        },
+        {
+            "name": "EndCaneFront",
+            "position": {
+                "x": -1.9500000476837159,
+                "y": -1.6699999570846558
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "StartPino",
+            "position": {
+                "x": -3.2300000190734865,
+                "y": -1.8940000534057618
+            },
+            "scale": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ]
+}

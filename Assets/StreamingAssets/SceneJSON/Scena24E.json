@@ -1,0 +1,117 @@
+{
+    "sceneName": "Scena24E",
+    "background": "groem 17 sfondo aquila-01",
+    "camera": {
+        "startPoint": {
+            "x": 0.8100000023841858,
+            "y": -0.05999999865889549,
+            "z": -10.0
+        },
+        "size": 4.0,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "Pinoside",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -4.199999809265137,
+                "y": -3.0899999141693117
+            },
+            "scale": {
+                "x": 0.699999988079071,
+                "y": 0.699999988079071
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "Aquila",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": 8.380000114440918,
+                "y": 1.3799999952316285
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "Aquilaombra",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -14.3100004196167,
+                "y": -4.320000171661377
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartPino",
+            "position": {
+                "x": -4.199999809265137,
+                "y": -3.0899999141693117
+            },
+            "scale": {
+                "x": 0.699999988079071,
+                "y": 0.699999988079071
+            }
+        },
+        {
+            "name": "StartAquila",
+            "position": {
+                "x": -14.3100004196167,
+                "y": -4.320000171661377
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "MiddleAquila",
+            "position": {
+                "x": -1.0499999523162842,
+                "y": -3.1500000953674318
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "EndAquila",
+            "position": {
+                "x": 9.229999542236329,
+                "y": -1.8799999952316285
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}

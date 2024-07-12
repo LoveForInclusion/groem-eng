@@ -1,0 +1,106 @@
+{
+    "sceneName": "Scena28E",
+    "background": "groem 17 sfondo aquila-01",
+    "camera": {
+        "startPoint": {
+            "x": 3.5399999618530275,
+            "y": -0.009999999776482582,
+            "z": -10.0
+        },
+        "size": 4.0,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "Aquila",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": true,
+            "idleState": 0,
+            "start": {
+                "x": 3.2100000381469728,
+                "y": -2.7699999809265138
+            },
+            "scale": {
+                "x": 0.699999988079071,
+                "y": 0.699999988079071
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "topigirotondo",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": 0.8399999737739563,
+                "y": -2.5
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": "Abbraccio"
+        },
+        {
+            "name": "sacco",
+            "type": 1,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -2.809999942779541,
+                "y": -0.75
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartAquila",
+            "position": {
+                "x": 3.2100000381469728,
+                "y": -2.7699999809265138
+            },
+            "scale": {
+                "x": 0.699999988079071,
+                "y": 0.699999988079071
+            }
+        },
+        {
+            "name": "EndAquila",
+            "position": {
+                "x": -6.010000228881836,
+                "y": 3.5899999141693117
+            },
+            "scale": {
+                "x": 0.699999988079071,
+                "y": 0.699999988079071
+            }
+        },
+        {
+            "name": "StartTopigirotondo",
+            "position": {
+                "x": 0.8399999737739563,
+                "y": -2.5
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 186167321
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 439aec57e845d04340a3d0782bb396da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ddeeb3cb0b42c9a8df67181163a6a32b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UIElements/symbol/primaStoria/basta.png
+- Assets/audio/no-aud.wav
+- Assets/UIElements/test ui 01/Senza titolo-3-09.png
+Dependencies: []

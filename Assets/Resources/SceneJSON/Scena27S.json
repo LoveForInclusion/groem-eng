@@ -1,0 +1,68 @@
+{
+    "sceneName": "Scena27S",
+    "background": "groem 17-01",
+    "camera": {
+        "startPoint": {
+            "x": 0.0,
+            "y": -2.4800000190734865,
+            "z": -10.0
+        },
+        "size": 3.0,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "PinoFront",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -0.3199999928474426,
+                "y": -3.2899999618530275
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "TearsPino",
+            "type": 1,
+            "renderLayer": 63,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -0.34299999475479128,
+                "y": -2.187000036239624
+            },
+            "scale": {
+                "x": 0.23999999463558198,
+                "y": 0.23999999463558198
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartPino",
+            "position": {
+                "x": -0.3199999928474426,
+                "y": -3.2899999618530275
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}

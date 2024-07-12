@@ -1,0 +1,106 @@
+{
+    "sceneName": "Scena25E",
+    "background": "groem 17 sfondo aquila-01",
+    "camera": {
+        "startPoint": {
+            "x": 0.30000001192092898,
+            "y": -0.03999999910593033,
+            "z": -10.0
+        },
+        "size": 4.0,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "Pinoside",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -4.199999809265137,
+                "y": -3.0899999141693117
+            },
+            "scale": {
+                "x": 0.699999988079071,
+                "y": 0.699999988079071
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "Aquila",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": true,
+            "idleState": 0,
+            "start": {
+                "x": 6.809999942779541,
+                "y": 0.7799999713897705
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "saccochiuso",
+            "type": 1,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": 4.059999942779541,
+                "y": 2.049999952316284
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartAquila",
+            "position": {
+                "x": 5.590000152587891,
+                "y": 1.440000057220459
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "EndAquila",
+            "position": {
+                "x": 0.49000000953674319,
+                "y": -0.4000000059604645
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "StartPino",
+            "position": {
+                "x": -4.199999809265137,
+                "y": -3.0899999141693117
+            },
+            "scale": {
+                "x": 0.699999988079071,
+                "y": 0.699999988079071
+            }
+        }
+    ]
+}

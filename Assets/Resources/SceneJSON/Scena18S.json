@@ -1,0 +1,63 @@
+{
+    "sceneName": "Scena18S",
+    "background": "thumbnail3",
+    "camera": {
+        "startPoint": {
+            "x": 0.029999999329447748,
+            "y": -0.7699999809265137,
+            "z": -10.0
+        },
+        "size": 3.799999952316284,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "Pinoside",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -8.270000457763672,
+                "y": -1.649999976158142
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartPino",
+            "position": {
+                "x": -8.260000228881836,
+                "y": -1.649999976158142
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "EndPino",
+            "position": {
+                "x": 0.009999999776482582,
+                "y": -2.0899999141693117
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "sceneName": "Scena13E",
+    "background": "volpe9-20",
+    "camera": {
+        "startPoint": {
+            "x": 0.41999998688697817,
+            "y": 0.05000000074505806,
+            "z": -10.0
+        },
+        "size": 4.0,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "PortaVolpe",
+            "type": 1,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -1.7799999713897706,
+                "y": -1.840000033378601
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "Pinoside",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -2.990000009536743,
+                "y": -2.319999933242798
+            },
+            "scale": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "Volpe34",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": true,
+            "idleState": 0,
+            "start": {
+                "x": -0.8700000047683716,
+                "y": -2.190000057220459
+            },
+            "scale": {
+                "x": 0.800000011920929,
+                "y": 0.800000011920929
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartVolpe",
+            "position": {
+                "x": -0.8700000047683716,
+                "y": -2.190000057220459
+            },
+            "scale": {
+                "x": 0.800000011920929,
+                "y": 0.800000011920929
+            }
+        },
+        {
+            "name": "StartPino",
+            "position": {
+                "x": -2.990000009536743,
+                "y": -2.319999933242798
+            },
+            "scale": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "sceneName": "Scena4E",
+    "background": "thumbnail (2)",
+    "camera": {
+        "startPoint": {
+            "x": 0.949999988079071,
+            "y": 0.10999999940395355,
+            "z": -10.0
+        },
+        "size": 3.5,
+        "actor": "",
+        "min": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "max": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "entities": [
+        {
+            "name": "Groem",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -1.7299997806549073,
+                "y": -2.0399999618530275
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        },
+        {
+            "name": "Topisacco",
+            "type": 0,
+            "renderLayer": 0,
+            "flip": false,
+            "idleState": 0,
+            "start": {
+                "x": -1.1899998188018799,
+                "y": -1.659999966621399
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "stateLayer": ""
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "StartGroem",
+            "position": {
+                "x": -1.7299997806549073,
+                "y": -2.0399999618530275
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "StartTopiSacco",
+            "position": {
+                "x": -1.1899998188018799,
+                "y": -1.659999966621399
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "EndGroem",
+            "position": {
+                "x": 8.34000015258789,
+                "y": -2.059999942779541
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "StartSaccoChiuso",
+            "position": {
+                "x": -0.6199997663497925,
+                "y": -0.7599998712539673
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "name": "EndSaccoChiuso",
+            "position": {
+                "x": 9.449999809265137,
+                "y": -0.7599998712539673
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}
