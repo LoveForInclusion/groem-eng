@@ -70,7 +70,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: fee3f77b43db24c4aa89a1ca5905d9cd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ea9a56e6b311cb84b87a6a1108a0f0ad, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -362,7 +362,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7dac45de3f7d10f40977f0387d778ddc, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8e4670c91c4e43041b4388e745539af3, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -654,7 +654,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 650b82e1dd423464d8c29ac0ca6d4533, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a2af85300a6ae3047ae77bf74ba97f80, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -946,7 +946,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 9d6f08e95821eda4592cbc70085fcfb3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 24cefd622b881c749bab8c2f861077d4, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1238,7 +1238,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 187f6f168d97aa247a16c4ca847382dd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a59d7ecd2671cb04db46ee640927f0a5, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1530,7 +1530,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 187f6f168d97aa247a16c4ca847382dd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 58d7f5ca17b21454a9d3bd6b45a4fdc2, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1815,7 +1815,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -2017,18 +2017,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 0f3758481e6cf2742b18aa97e6909cc7, type: 3}
+  clip: {fileID: 8300000, guid: c151da3d6bed1974288a395302812edc, type: 3}
   delay: 0
-  actions:
-  - name: PinoFront
-    type: 0
-    action: 1
-    speed: 0
-    distance: 0
-    startWP: StartPino
-    targerWP: []
-    stateLayer: 
-    flip: 0
+  actions: []
 --- !u!114 &560388955932646102
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2341,7 +2332,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8dc7b2302bd91ef499d223522045c88f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3635d875f3d23474e8398765f9d6c0ce, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1

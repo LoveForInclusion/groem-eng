@@ -70,7 +70,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f974a4bc34444714e99b7b5d726ec7bd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3e749ffed91753e49ad1bf27f6b77d19, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -270,20 +270,22 @@ MonoBehaviour:
   actions:
   - name: Groem
     type: 0
-    action: 5
-    speed: 0
+    action: 0
+    speed: 3
     distance: 0
     startWP: StartGroem
-    targerWP: []
+    targerWP:
+    - EndGroem
     stateLayer: Sacco
     flip: 0
   - name: Topisacco
     type: 0
     action: 2
-    speed: 0
+    speed: 3
     distance: 0
     startWP: StartSaccoChiuso
-    targerWP: []
+    targerWP:
+    - EndSaccoChiuso
     stateLayer: 
     flip: 0
 --- !u!114 &5365865276072807867
@@ -654,7 +656,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: cd3749c10b1f48a4a85153b4d402245f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 12b9b534738c4c240adccb34bc2adeae, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -955,7 +957,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 2f6f07bfe86a84141ac82f4a04f245c6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ea9a56e6b311cb84b87a6a1108a0f0ad, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1238,7 +1240,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: fee3f77b43db24c4aa89a1ca5905d9cd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a9c0dd5f21f57a74f9a7f1104b386cf2, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1435,7 +1437,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   clip: {fileID: 8300000, guid: d2633a9a73c764c40a333ad2107f45fe, type: 3}
   delay: 0
-  actions: []
+  actions:
+  - name: Groem
+    type: 0
+    action: 3
+    speed: 0
+    distance: 0
+    startWP: StartGroem
+    targerWP: []
+    stateLayer: 
+    flip: 0
+  - name: Topisacco
+    type: 0
+    action: 1
+    speed: 0
+    distance: 0
+    startWP: StartTopiSacco
+    targerWP: []
+    stateLayer: 
+    flip: 0
 --- !u!114 &5166473464722571791
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1521,7 +1541,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 2931b1f9ff8f3584d99de3dd9d637b20, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 14fc0a550dde2d54791daceba02231ae, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1718,7 +1738,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   clip: {fileID: 8300000, guid: af44f6a34f6bb0f4aa3ebb1d7cee2291, type: 3}
   delay: 0
-  actions: []
+  actions:
+  - name: Groem
+    type: 0
+    action: 5
+    speed: 0
+    distance: 0
+    startWP: StartGroem
+    targerWP: []
+    stateLayer: Sacco
+    flip: 0
+  - name: Topisacco
+    type: 0
+    action: 2
+    speed: 0
+    distance: 0
+    startWP: StartSaccoChiuso
+    targerWP: []
+    stateLayer: 
+    flip: 0
 --- !u!114 &7368748141407936968
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1804,7 +1842,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f0c75bc6d7656cf40a6c6a0e5a7cd74d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 28ff001d83392274fbcc0e10732ec534, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -2001,25 +2039,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   clip: {fileID: 8300000, guid: a2c43db3191f7f0429f788cce513989d, type: 3}
   delay: 0
-  actions:
-  - name: Groem
-    type: 0
-    action: 3
-    speed: 0
-    distance: 0
-    startWP: StartGroem
-    targerWP: []
-    stateLayer: 
-    flip: 0
-  - name: Topisacco
-    type: 0
-    action: 1
-    speed: 0
-    distance: 0
-    startWP: StartTopiSacco
-    targerWP: []
-    stateLayer: 
-    flip: 0
+  actions: []
 --- !u!114 &3223746662005930491
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2105,7 +2125,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 53a58d5a70d0cd140b11714f90e4554d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: bb2694cec76802a4dbcbf5ca237b3243, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
