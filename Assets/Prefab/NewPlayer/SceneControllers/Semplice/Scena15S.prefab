@@ -280,7 +280,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 858adb283edfcb040bc44ed06155de01, type: 3}
+  clip: {fileID: 8300000, guid: 0f56e58b65c79e54daf13f59f902f9b6, type: 3}
   delay: 0
   actions: []
 --- !u!1 &6211945704516176984
@@ -786,7 +786,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 8c7bc32d559d306498ae107c451426c5, type: 3}
+  clip: {fileID: 8300000, guid: 70b00c3b705f8e545bcb51a837d75919, type: 3}
   delay: 0
   actions:
   - name: VolpeFront
@@ -1087,7 +1087,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 8e72ab2b48ffc3f43a480b68c04e277d, type: 3}
+  clip: {fileID: 8300000, guid: f680cb8e921bd8d4fa6a4f0501e9888f, type: 3}
   delay: 0
   actions:
   - name: VolpeFront
@@ -1389,7 +1389,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: e6a5cbd562a70bb4f80c41a6af374f86, type: 3}
+  clip: {fileID: 8300000, guid: 13f1b9eae2630dd4582df18345f555e4, type: 3}
   delay: 0
   actions: []
 --- !u!1 &6648380854890804555
@@ -1462,7 +1462,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: daa6faf0795c6844f95e0aff4d5a9a9f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 622239a9e19b4054da1742ec9cd20115, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1672,7 +1672,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 38d07a679ac5d594287e7e1ca8b40d52, type: 3}
+  clip: {fileID: 8300000, guid: 6d08000dbf9136c4da7b0040ec48615d, type: 3}
   delay: 0
   actions: []
 --- !u!1 &6669313839728734391
@@ -1955,7 +1955,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 7453a11f8f11178498e5ba6676708375, type: 3}
+  clip: {fileID: 8300000, guid: 6b939bdb738d5be409ea27d6030384cd, type: 3}
   delay: 0
   actions:
   - name: VolpeFront

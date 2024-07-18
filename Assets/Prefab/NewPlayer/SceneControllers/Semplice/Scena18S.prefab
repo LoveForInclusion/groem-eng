@@ -280,7 +280,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 20dad2c6c0f3f6b4c964ef30c3056291, type: 3}
+  clip: {fileID: 8300000, guid: a3f56e36ceafb6d4c9c28288051cb396, type: 3}
   delay: 0
   actions: []
 --- !u!1 &3029877254672222547
@@ -563,7 +563,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 7402eb70a49ef58429513824081c410a, type: 3}
+  clip: {fileID: 8300000, guid: a7057b811b388f841b981fa24d806496, type: 3}
   delay: 0
   actions:
   - name: Pinoside
@@ -855,7 +855,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 1c1cdc92071c8e5439a859b9dcf61434, type: 3}
+  clip: {fileID: 8300000, guid: 25966614cf721c042910b320922c56ce, type: 3}
   delay: 0
   actions: []
 --- !u!1 &3030296400759784833
@@ -1138,7 +1138,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: eb222393f9ff39b46a4c334568eff418, type: 3}
+  clip: {fileID: 8300000, guid: d74e52d59e01a7642b8f49605dd98a80, type: 3}
   delay: 0
   actions:
   - name: Pinoside

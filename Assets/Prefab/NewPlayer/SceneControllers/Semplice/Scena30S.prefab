@@ -280,7 +280,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: c3eff6f45e0122c469e9b2a9ad941c14, type: 3}
+  clip: {fileID: 8300000, guid: 2c2a4c6e65881344483313405bb89dde, type: 3}
   delay: 0
   actions: []
 --- !u!1 &4284172932088044412
@@ -563,7 +563,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: f752750fb9f202748a5ba90aa3726723, type: 3}
+  clip: {fileID: 8300000, guid: 032334ff76c37084da5375ea9e1e9183, type: 3}
   delay: 0
   actions:
   - name: SaccoChiusoAct
@@ -855,7 +855,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 1c3d4c04829270141ad8856f0ddcfe5c, type: 3}
+  clip: {fileID: 8300000, guid: bd6265adf34585b45a0799c1cc8c0efd, type: 3}
   delay: 0
   actions: []
 --- !u!1 &4284611405540956078
@@ -1138,7 +1138,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: a30b753b0bda01146be284660edfd093, type: 3}
+  clip: {fileID: 8300000, guid: be0218ad14054e349813bb5e7d01686d, type: 3}
   delay: 0
   actions:
   - name: SaccoChiusoAct
@@ -1652,6 +1652,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 3e5b68694cdca3448925c2be41ecf081, type: 3}
+  clip: {fileID: 8300000, guid: 689e0c69d4e77ae4892fb85f1405c923, type: 3}
   delay: 0
   actions: []

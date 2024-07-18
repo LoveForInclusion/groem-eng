@@ -280,7 +280,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: a4e844da44fb16f4da15e4de6299e9b1, type: 3}
+  clip: {fileID: 8300000, guid: 0f5886ddd79457b4cb4e515575cba4eb, type: 3}
   delay: 0
   actions:
   - name: Pinoside
@@ -572,7 +572,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: fac1eeec9d3786d4fa9f611e2f586571, type: 3}
+  clip: {fileID: 8300000, guid: cc14ff6b9df26e04f9091cdd2e157d08, type: 3}
   delay: 0
   actions: []
 --- !u!1 &4659195323503895304
@@ -1078,7 +1078,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 91581730f1f36db48aaf285950bd9613, type: 3}
+  clip: {fileID: 8300000, guid: 2a30ad073b169ec47b667021f9d9182b, type: 3}
   delay: 0
   actions:
   - name: Aquila
@@ -1379,7 +1379,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: f30e0b1eccf1a3f44a00febc5cbd2f03, type: 3}
+  clip: {fileID: 8300000, guid: 1b0f05e243a639144b3221d04624163e, type: 3}
   delay: 0
   actions:
   - name: Aquila
@@ -1472,7 +1472,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: daa6faf0795c6844f95e0aff4d5a9a9f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 584cd1c0a6ed32547aed40a78dae49bf, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1682,7 +1682,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 4debd3a8bc15f3f40ad642ed4f2b3d59, type: 3}
+  clip: {fileID: 8300000, guid: acfdb867be230d448872c9186d3e8fe9, type: 3}
   delay: 0
   actions: []
 --- !u!1 &8050321846324029019
@@ -1965,7 +1965,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 559a2414e77eaeb49b2876bf0c5db2b5, type: 3}
+  clip: {fileID: 8300000, guid: 804335ddea8b27f45be31a23a0b9f99b, type: 3}
   delay: 0
   actions: []
 --- !u!1 &8686907672987095683
@@ -2248,6 +2248,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 130cea53dc3efae449b8c3a6fed96f74, type: 3}
+  clip: {fileID: 8300000, guid: 6702afa78dbae7840ae96fd5f3910292, type: 3}
   delay: 0
   actions: []
