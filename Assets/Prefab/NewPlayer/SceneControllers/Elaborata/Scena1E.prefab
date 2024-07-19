@@ -265,7 +265,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 7131d8ffab2303847af4f3946e189fdf, type: 3}
+  clip: {fileID: 8300000, guid: cd33b1bf9fc3e8a4d92de72195c5fc1e, type: 3}
   delay: 0
   actions: []
 --- !u!114 &347709689390839762
@@ -548,7 +548,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: f8f002a65d6afbe449a48bdb25cab073, type: 3}
+  clip: {fileID: 8300000, guid: c204bcf70c5236b4dacc1d1c909469a0, type: 3}
   delay: 0
   actions: []
 --- !u!114 &2947394246875208609
@@ -831,7 +831,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 8e04f1068e1568949b06a49568574c65, type: 3}
+  clip: {fileID: 8300000, guid: ff41a807a648c7a4ba9a6fb2b13c2996, type: 3}
   delay: 0
   actions:
   - name: Cappuccetto
@@ -1123,7 +1123,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: c906c2fc986dab94d9f6ff4f0d1ba642, type: 3}
+  clip: {fileID: 8300000, guid: 7c9195642b1952f479a4edd5598def36, type: 3}
   delay: 0
   actions:
   - name: topigirotondo
@@ -1642,7 +1642,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 3a25f4d722061ea4fa1a2b4da0da08a5, type: 3}
+  clip: {fileID: 8300000, guid: 15cd7bd2c58f9404fbc2d77b1ce68676, type: 3}
   delay: 0
   actions:
   - name: topigirotondo
@@ -1934,7 +1934,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 90870f29ef21a0e4ab58098a86fc8079, type: 3}
+  clip: {fileID: 8300000, guid: 8f11535084ad8fa4f89d5e46ccfc5c61, type: 3}
   delay: 0
   actions: []
 --- !u!114 &2676085151581066261
@@ -2217,7 +2217,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 323865d76f7ffc94097138f936305d29, type: 3}
+  clip: {fileID: 8300000, guid: e44d8de28caf71e479e6a767e242a713, type: 3}
   delay: 0
   actions: []
 --- !u!114 &-3590123201606422559
@@ -2500,7 +2500,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: b4b17fe6f1cc0be4085d04925cb913f2, type: 3}
+  clip: {fileID: 8300000, guid: 3b8096c7cf4a3cf42a275b97f6aa12ad, type: 3}
   delay: 0
   actions: []
 --- !u!114 &-3301675189117518423

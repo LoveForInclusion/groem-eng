@@ -265,7 +265,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 298c100f7a76fc148b941d61cabe994e, type: 3}
+  clip: {fileID: 8300000, guid: 560353b5ef19a2f40a8749dcbba8d005, type: 3}
   delay: 0
   actions: []
 --- !u!114 &7420450204685693588
@@ -548,7 +548,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 48c88e8a57fef924c90434533c43915a, type: 3}
+  clip: {fileID: 8300000, guid: a6910583bf88a7b48bb0e7da2266706d, type: 3}
   delay: 0
   actions: []
 --- !u!114 &5119099088741470547
@@ -831,7 +831,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 775db495c6863bd4f95bf1a328a47d49, type: 3}
+  clip: {fileID: 8300000, guid: 3d3065cec1641564589c8e0bd238db52, type: 3}
   delay: 0
   actions: []
 --- !u!114 &1005622788644424032
@@ -1114,7 +1114,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 69190124513d1f048a16df3e3dce8bc6, type: 3}
+  clip: {fileID: 8300000, guid: ce2683b609d63094d9b1ee7e02ac7ddb, type: 3}
   delay: 0
   actions: []
 --- !u!114 &7727858181944835360
@@ -1397,18 +1397,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: fa223c1c1e0dce64389159c4fdb5d941, type: 3}
+  clip: {fileID: 8300000, guid: a610e6479b9017c46b724ecc4c31bb9a, type: 3}
   delay: 0
-  actions:
-  - name: Cappuccetto
-    type: 0
-    action: 1
-    speed: 0
-    distance: 0
-    startWP: Start
-    targerWP: []
-    stateLayer: CapLess
-    flip: 0
+  actions: []
 --- !u!114 &5885256466979536263
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1689,7 +1680,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 43cd907ea3fc33e4793e1173d514686e, type: 3}
+  clip: {fileID: 8300000, guid: 47a5c9f04b0d6d7448a57d3233c6739e, type: 3}
   delay: 0
   actions:
   - name: Pinoside
@@ -1981,7 +1972,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 4ef957125ee63c7469fae3ce3c7a2fc4, type: 3}
+  clip: {fileID: 8300000, guid: f6ee0b805a2fd2b46a91dea2651dbeed, type: 3}
   delay: 0
   actions:
   - name: Aquila
@@ -2291,7 +2282,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 7086f685d66b79143a9de321bb3dbf95, type: 3}
+  clip: {fileID: 8300000, guid: 9aa715392f6af9a4e856f6af8656930f, type: 3}
   delay: 0
   actions:
   - name: Aquila
@@ -2827,18 +2818,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 298c100f7a76fc148b941d61cabe994e, type: 3}
+  clip: {fileID: 8300000, guid: 8f9152743b6433e4bb02a4606c19dd80, type: 3}
   delay: 0
-  actions:
-  - name: Cappuccetto
-    type: 0
-    action: 1
-    speed: 0
-    distance: 0
-    startWP: Start
-    targerWP: []
-    stateLayer: CapLess
-    flip: 0
+  actions: []
 --- !u!114 &7993363863362342571
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3119,7 +3101,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: e8bc0baa1e7f24649a051dee29155bfa, type: 3}
+  clip: {fileID: 8300000, guid: 9765b8e549809b3488078ec259505ff7, type: 3}
   delay: 0
   actions: []
 --- !u!114 &3402004932934027375
@@ -3402,18 +3384,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: f2943ade575e732499eb7a5828f483ec, type: 3}
+  clip: {fileID: 8300000, guid: bdce6efa74124a9489219d24de074d31, type: 3}
   delay: 0
-  actions:
-  - name: Cappuccetto
-    type: 0
-    action: 1
-    speed: 0
-    distance: 0
-    startWP: Start
-    targerWP: []
-    stateLayer: CapLess
-    flip: 0
+  actions: []
 --- !u!114 &8559357009242068506
 MonoBehaviour:
   m_ObjectHideFlags: 0

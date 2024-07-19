@@ -265,7 +265,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: ee2ef8726a68edf458bb1cd7d6415565, type: 3}
+  clip: {fileID: 8300000, guid: b28c544fe403188459e1ca7ac15383d9, type: 3}
   delay: 0
   actions: []
 --- !u!114 &7669215777009860752
@@ -548,7 +548,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: aef7e491cdafe7b4cae4a82b3c0ad079, type: 3}
+  clip: {fileID: 8300000, guid: a7f1643811728f44ca2532660aa4f360, type: 3}
   delay: 0
   actions: []
 --- !u!114 &5448944637648266071
@@ -831,7 +831,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 16c5f75a641f9b14fadd67d029e2f5ae, type: 3}
+  clip: {fileID: 8300000, guid: 325d3f9269ef7024198d44b0595b21eb, type: 3}
   delay: 0
   actions:
   - name: AsinoFront
@@ -1133,7 +1133,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: e1750ecbf7c9e0d4bbab6ed72d131e6a, type: 3}
+  clip: {fileID: 8300000, guid: 9b93d1fc6d28caa4fbe811c9218dd8a7, type: 3}
   delay: 0
   actions: []
 --- !u!114 &7470034902190624548
@@ -1416,7 +1416,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 35860048b260bd5478d710cc14b1f2f7, type: 3}
+  clip: {fileID: 8300000, guid: f95dd46123a5d5748a688a12a3954d6b, type: 3}
   delay: 0
   actions: []
 --- !u!114 &2117762411669530924
@@ -1699,7 +1699,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: c6ce1cfd1096ad948a8ea842ccc7d204, type: 3}
+  clip: {fileID: 8300000, guid: ef35bdf03203f714ca44d08cf3554977, type: 3}
   delay: 0
   actions:
   - name: AsinoFront
@@ -2000,7 +2000,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 2f6de9b2967fed74b97131eeaabe81e1, type: 3}
+  clip: {fileID: 8300000, guid: 715f6704db9c38545a24cfacf12ac982, type: 3}
   delay: 0
   actions:
   - name: Cappuccetto
@@ -2292,7 +2292,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: ba57847b4e14fc44181510cbe16975a3, type: 3}
+  clip: {fileID: 8300000, guid: 043b203d87688c846b417028c15d5873, type: 3}
   delay: 0
   actions:
   - name: Cappuccetto
@@ -2819,7 +2819,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 80f28f08ac6f54d4386e8fd91cdb1e73, type: 3}
+  clip: {fileID: 8300000, guid: 4738ccf33b23e7340a17310b781b7a77, type: 3}
   delay: 0
   actions:
   - name: Cappuccetto
@@ -3111,7 +3111,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: bb4b3e229954baf449d9446740909d80, type: 3}
+  clip: {fileID: 8300000, guid: d8f7db5e129f420428f6d8499979677c, type: 3}
   delay: 0
   actions:
   - name: Cappuccetto
@@ -3403,7 +3403,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 7490cb1ecdaef1d489c2aeb572b7771c, type: 3}
+  clip: {fileID: 8300000, guid: 4f0230cc0bb10784e8f74b122faa8e4d, type: 3}
   delay: 0
   actions:
   - name: Cappuccetto
@@ -3695,7 +3695,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 41521b958b3e13148be0f912cb37affd, type: 3}
+  clip: {fileID: 8300000, guid: 32829415c24907d4c8c9311dea80b791, type: 3}
   delay: 0
   actions: []
 --- !u!114 &2567722828091996779
