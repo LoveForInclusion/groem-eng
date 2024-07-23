@@ -265,7 +265,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 9c29540d86427d247affd7b84f143244, type: 3}
+  clip: {fileID: 8300000, guid: 992c9c573938f364892925dbdf3bdae5, type: 3}
   delay: 0
   actions:
   - name: Asino34
@@ -557,7 +557,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 9b7d25b2c26efcb4f9eecabd9af1e74c, type: 3}
+  clip: {fileID: 8300000, guid: 67265e05db028374dbe94db9d330053e, type: 3}
   delay: 0
   actions:
   - name: Asino34
@@ -849,7 +849,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 590a55e697165ec4ebca1e72af9fc734, type: 3}
+  clip: {fileID: 8300000, guid: 468910e1c213aa947b32a86fcdc8ad01, type: 3}
   delay: 0
   actions:
   - name: Asino34
@@ -1141,7 +1141,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 28b4260bca3a56141be054a0346247ab, type: 3}
+  clip: {fileID: 8300000, guid: 53e6ed261612a8944a0e4fdc35755d73, type: 3}
   delay: 0
   actions:
   - name: Asino34
@@ -1664,7 +1664,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 170d4d3ca6a6edd47a37008bfad72520, type: 3}
+  clip: {fileID: 8300000, guid: ed98e0d59f90d8742b0116cd47e43f27, type: 3}
   delay: 0
   actions:
   - name: Asino34
@@ -1956,7 +1956,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: c524461ca3bb47e48a6941c87a39b908, type: 3}
+  clip: {fileID: 8300000, guid: b08725b2563e94840bcf08d9f790c1ca, type: 3}
   delay: 0
   actions:
   - name: Asino34
@@ -2248,7 +2248,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: aca905e9188b9374a84805740d5807de, type: 3}
+  clip: {fileID: 8300000, guid: a29a498151600404388df2b9b28911f4, type: 3}
   delay: 0
   actions:
   - name: Asino34
@@ -2540,7 +2540,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: afc1cba0669b92a4981860206bee25f5, type: 3}
+  clip: {fileID: 8300000, guid: 03b93f704e5c7b64d9e1c8c6234aaeb5, type: 3}
   delay: 0
   actions:
   - name: Asino34
@@ -2832,7 +2832,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: a539ac64304c3c543a1c294583c00471, type: 3}
+  clip: {fileID: 8300000, guid: 2b778a9283a929f4ba3531151bf901c1, type: 3}
   delay: 0
   actions:
   - name: Asino34
@@ -3124,7 +3124,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 4e9dd6e0cf6e5134caa96879096a16f2, type: 3}
+  clip: {fileID: 8300000, guid: 69a76bc39f36bfe4c9e91e20e1052b9a, type: 3}
   delay: 0
   actions:
   - name: Asino34

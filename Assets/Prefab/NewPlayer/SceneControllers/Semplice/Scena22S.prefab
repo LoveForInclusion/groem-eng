@@ -503,7 +503,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: c6bd57f7bf135a34ab04631829606ac8, type: 3}
+  clip: {fileID: 8300000, guid: 42d4ffe2672ff0d4b84e8d14b0cc8da4, type: 3}
   delay: 0
   actions:
   - name: Asino34
@@ -795,7 +795,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 9b7d25b2c26efcb4f9eecabd9af1e74c, type: 3}
+  clip: {fileID: 8300000, guid: bf32443351e973447abff2ef9075a5ca, type: 3}
   delay: 0
   actions:
   - name: Asino34
@@ -1087,7 +1087,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 690ead48e3d82354a87c5c2a5f687125, type: 3}
+  clip: {fileID: 8300000, guid: 3c3a1011db9ed96488a9228934bba337, type: 3}
   delay: 0
   actions:
   - name: Asino34
@@ -1379,7 +1379,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 83bff3ba9108cab41b5eda6b8120d130, type: 3}
+  clip: {fileID: 8300000, guid: cf8b866e7225cec498e33113841d9c5e, type: 3}
   delay: 0
   actions:
   - name: Asino34
@@ -1671,7 +1671,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: d8c94c3b6f722644391392dd44cfc8ca, type: 3}
+  clip: {fileID: 8300000, guid: 69ba3ce16c2f38f4abde63734d95b55e, type: 3}
   delay: 0
   actions:
   - name: Asino34
@@ -1963,7 +1963,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: e855101509a0e174d895efc557753d65, type: 3}
+  clip: {fileID: 8300000, guid: af0993cde2348cb40a00a5e75905c281, type: 3}
   delay: 0
   actions:
   - name: Asino34

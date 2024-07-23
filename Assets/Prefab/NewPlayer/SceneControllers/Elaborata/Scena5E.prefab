@@ -265,7 +265,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 42e1ffc09a9642a4f80c0eacbd6174df, type: 3}
+  clip: {fileID: 8300000, guid: b885683d547ae0c448cef51d1adb4a33, type: 3}
   delay: 0
   actions:
   - name: Pinoside
@@ -566,7 +566,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 02da874e4dc41444aa29a070ec996b68, type: 3}
+  clip: {fileID: 8300000, guid: 4f9ece9a5b785264f9cc3b26bebfa2d5, type: 3}
   delay: 0
   actions:
   - name: Pinoside
@@ -867,7 +867,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: a3aea78148ea8ab44a580e6e00a1ba4d, type: 3}
+  clip: {fileID: 8300000, guid: a3e774260e219284c91b492f00409602, type: 3}
   delay: 0
   actions:
   - name: Pinoside
@@ -1168,7 +1168,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 7397909736338ad4d8698b479bc91496, type: 3}
+  clip: {fileID: 8300000, guid: 6cdfebbe043deff4dbbe60823c8a4e11, type: 3}
   delay: 0
   actions:
   - name: Pinoside
@@ -1704,7 +1704,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: fa1b2b56b150590488c984744b91ecb2, type: 3}
+  clip: {fileID: 8300000, guid: a28e9faa341fc3a4094b5d553b40ac89, type: 3}
   delay: 0
   actions:
   - name: Pinoside
@@ -2608,7 +2608,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 8348dc6229313444db074e3e470b91dc, type: 3}
+  clip: {fileID: 8300000, guid: 4e20eddbf8cec9146b1a6303b741542d, type: 3}
   delay: 0
   actions:
   - name: Pinoside
@@ -2909,7 +2909,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 5ec896e4e4084364ea0600d85f83733f, type: 3}
+  clip: {fileID: 8300000, guid: d952d926ccae6624b936cf7ffcbdf3e2, type: 3}
   delay: 0
   actions:
   - name: Pinoside

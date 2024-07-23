@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 82106978541188538}
   - component: {fileID: 95177602230188524}
   m_Layer: 5
-  m_Name: Figure_they_splept
+  m_Name: Figure_they_slept
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

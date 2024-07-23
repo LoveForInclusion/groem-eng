@@ -6882,7 +6882,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.17165627, y: 0.08257869}
   m_AnchorMax: {x: 0.32171875, y: 0.319}
-  m_AnchoredPosition: {x: 1, y: 6.0000153}
+  m_AnchoredPosition: {x: 1, y: 6}
   m_SizeDelta: {x: -1, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &222982019615867298
@@ -7199,143 +7199,142 @@ MonoBehaviour:
   a: 
   Facile:
   - parole:
-    - {fileID: 1679602845482884, guid: 37c597ba1ff491f4ebcf7a30360572d4, type: 3}
-    - {fileID: 1823989536366540, guid: df5bbf36e25a54f4db8d01dd7778e305, type: 3}
-    - {fileID: 1485592573725312, guid: c984805b0347cab41a26758619ccb69e, type: 3}
-    - {fileID: 1496288178091348, guid: 0e79624221811db42b0ad7186da6a086, type: 3}
+    - {fileID: 1791259037341356, guid: e4f1df654dd4b7645854bb1bc78a7ad7, type: 3}
+    - {fileID: 1791259037341356, guid: 6941d2494c4c88347a0e9f3b21212eb6, type: 3}
+    - {fileID: 1791259037341356, guid: 3036179eee47240438c897dcff3be1e6, type: 3}
+    - {fileID: 1791259037341356, guid: a1ca3b52cd8214249849035c65e008dc, type: 3}
+    risposta: 0
+  - parole:
+    - {fileID: 1791259037341356, guid: da7376b75c9d12949aa1651ec6920aad, type: 3}
+    - {fileID: 1791259037341356, guid: e11618da3334e9d439f40475550fdae6, type: 3}
+    - {fileID: 1791259037341356, guid: b997e92e8d962e6419ce6f470c5ef0cc, type: 3}
+    risposta: 0
+  - parole:
+    - {fileID: 1791259037341356, guid: c4238e58118334d41b8017c234414376, type: 3}
+    - {fileID: 1791259037341356, guid: 8ef33ec0473528146871e7ff558f2bcd, type: 3}
+    - {fileID: 1791259037341356, guid: e70947ae4c4bb2a4e92b39802c43b29f, type: 3}
     risposta: 1
   - parole:
-    - {fileID: 1198559945927484, guid: d2e87796ba5572f4091d4e6e3373c38f, type: 3}
-    - {fileID: 1761373117508520, guid: 5edf731cc828840478b3d27c53e0c76f, type: 3}
-    - {fileID: 1981010950522754, guid: e81c0c95c58936543a5f4d64f5329434, type: 3}
-    - {fileID: 1311642256635348, guid: a35b5cffd66896f46b955e8fada7b209, type: 3}
+    - {fileID: 1791259037341356, guid: c1e655a78d7e2684ab87e02fc28bd5f4, type: 3}
+    - {fileID: 1791259037341356, guid: 5348a8960d7c29745828955aa10030f5, type: 3}
+    - {fileID: 1791259037341356, guid: 5d7dc8448577915478d65ed13b230299, type: 3}
+    - {fileID: 1791259037341356, guid: a08e7db2a8e7add4496ab355eef48106, type: 3}
+    - {fileID: 1791259037341356, guid: ae9b5595771e7744b86a8b858513ca17, type: 3}
     risposta: 0
   - parole:
-    - {fileID: 1451096401145036, guid: 21e4d127ecbbd8a4aa47e47bada98db2, type: 3}
-    - {fileID: 1513183273569182, guid: 7d811e4f84a6e664d9fcba2dd4030bfa, type: 3}
-    - {fileID: 1949423693708634, guid: 13a7e7cfca7239a48901bea2a9a68d18, type: 3}
-    - {fileID: 1388947981905576, guid: 5b3a1d548e8e7a7418d4c0768ba87280, type: 3}
-    risposta: 0
-  - parole:
-    - {fileID: 1471116744324112, guid: fc444ff58d9846344bb9a4e9bfad1573, type: 3}
-    - {fileID: 1590107601294206, guid: 82f8cfd5f68503d4eab0570ba6e95a2c, type: 3}
-    - {fileID: 1417786193558950, guid: 3219524fa136b5345967e5561a43d43b, type: 3}
-    - {fileID: 1827514740210552, guid: 930ce7b36960f0b4ab90f3873a01aeff, type: 3}
-    - {fileID: 1185364685000452, guid: 179da99f818428f42a5da74b56c813c7, type: 3}
-    - {fileID: 1797617761296962, guid: be5106ec6db80614483cfdf69f3c7051, type: 3}
-    risposta: 0
-  - parole:
-    - {fileID: 1070370696518936, guid: 63e38e5133702824682e968c226a6c16, type: 3}
-    - {fileID: 1646207788904264, guid: deba4a3fb3aeb3c48a575a2d65261b02, type: 3}
-    - {fileID: 1123313139985626, guid: ed511340df9597a4c836b59ffd4711a5, type: 3}
-    - {fileID: 1938098541935738, guid: 7331eee044d917a4e956914dfa128583, type: 3}
-    risposta: 0
-  - parole:
-    - {fileID: 1507392936635808, guid: 2f6d8662acd5b8449ad50ea632c43e80, type: 3}
-    - {fileID: 1180868173281710, guid: 47cc10e29a5a9aa43b88db6db641846a, type: 3}
-    - {fileID: 1554593880978474, guid: c1625b0f2bf6860418c2d6930beb202c, type: 3}
-    - {fileID: 1941199136316776, guid: 388faad68a1dc644391a63f894b2d91e, type: 3}
-    - {fileID: 1823986756637474, guid: 5fc96ea8b0509d448b4a6bca59af8289, type: 3}
+    - {fileID: 1791259037341356, guid: 5f9845b95e1758b488d2bca9f4989157, type: 3}
+    - {fileID: 1791259037341356, guid: 9f0dd9f9d6a99e64c89d59eac585ce62, type: 3}
+    - {fileID: 1791259037341356, guid: 69297f4d4a79a8546b8ccfd581f02bf9, type: 3}
+    - {fileID: 1791259037341356, guid: 9fa89f23276d20e4292bd11753b8fd76, type: 3}
     risposta: 1
   - parole:
-    - {fileID: 1189292142872632, guid: d2a53677ffc19c14ca5f91b02586ff87, type: 3}
-    - {fileID: 1952390954237284, guid: d60a531644dad0040bfd75a22976f7c0, type: 3}
-    - {fileID: 1373944873569010, guid: 2c39ea3df8e96dc4bad8fe12defa19f5, type: 3}
-    - {fileID: 1713898349146586, guid: 4c4e6bad4360e644eb61c4970651617f, type: 3}
-    - {fileID: 1642301780369510, guid: 112e6b6c98a171e4b9a29111de034f6b, type: 3}
+    - {fileID: 1791259037341356, guid: 5dadf08003daab0429a6bed8bae2309f, type: 3}
+    - {fileID: 1791259037341356, guid: cd6b0d85c52c31241848d3a7784514db, type: 3}
+    - {fileID: 1791259037341356, guid: 64123c9d3514ca8459f29eef8a0e1c9d, type: 3}
+    - {fileID: 1791259037341356, guid: ea124d2685ec2dd4984e3dd4b92fe9d5, type: 3}
+    - {fileID: 1791259037341356, guid: d8e26630b30b2fe49be81a44f03dd6d1, type: 3}
+    - {fileID: 1791259037341356, guid: 1f5bc70b8a69da146b8800fa9170d95a, type: 3}
     risposta: 0
   - parole:
-    - {fileID: 1864975003784528, guid: 9b49cab4dac24074bafa15501ba06b1e, type: 3}
-    - {fileID: 1344995505582302, guid: 24b57395d4a4e59498b1258540097e25, type: 3}
-    - {fileID: 1848688792101454, guid: e63ed9c45335b364992c25f71b0f9a7e, type: 3}
+    - {fileID: 1791259037341356, guid: f3af18b7e03bf8e429fa86dd728ba72a, type: 3}
+    - {fileID: 1791259037341356, guid: ab7d5177b41cfa0458c2d24423f7c1ab, type: 3}
+    - {fileID: 1791259037341356, guid: bb58189f526b05e488064812c6e73472, type: 3}
+    risposta: 0
+  - parole:
+    - {fileID: 1791259037341356, guid: 1bd1181cbf2cffc448ea2f06a1c58ed4, type: 3}
+    - {fileID: 1791259037341356, guid: 6611e974184b8c741871323ef8f6e582, type: 3}
+    - {fileID: 1791259037341356, guid: 4ca05189d323670448dc17002f2247bf, type: 3}
+    - {fileID: 1791259037341356, guid: 4e6391121d2b4904bbc177c55f1a2180, type: 3}
     risposta: 1
   - parole:
-    - {fileID: 1595777868314196, guid: 58845df0e9531394c89e43b41de03959, type: 3}
-    - {fileID: 1685156509860382, guid: 60c6ab3993af18e4c8600972716738f7, type: 3}
-    - {fileID: 1704115769925364, guid: b288b5e97b034e748b771a64e3fc08bd, type: 3}
-    - {fileID: 1440058794149518, guid: 8766770e97ddb8246ac388902c78407c, type: 3}
+    - {fileID: 1791259037341356, guid: d4205bcda9480124dbc090b1c7f26a59, type: 3}
+    - {fileID: 1791259037341356, guid: e9e443f4f2380204e9cf496222b86592, type: 3}
+    - {fileID: 1791259037341356, guid: 4ddac764b1228d04fa4dc3e8c5af2fdd, type: 3}
+    - {fileID: 1791259037341356, guid: f26e6cfdec180ae44b1341a938c1457e, type: 3}
     risposta: 0
   - parole:
-    - {fileID: 1616819464671084, guid: 1719f58e00a0b7a4ab710cabe87e281c, type: 3}
-    - {fileID: 1487155649327678, guid: f5be0ac894b43b84384a1a2d5268f63c, type: 3}
-    - {fileID: 1282964638466274, guid: 5344fbab6ba479d40914d1a044ddb689, type: 3}
-    risposta: 0
+    - {fileID: 1791259037341356, guid: a497b91eaf92fb64d9ad476d7979fae5, type: 3}
+    - {fileID: 1791259037341356, guid: 813abccaf11442344b18795864ad1171, type: 3}
+    - {fileID: 1791259037341356, guid: 5c05740a5a967f94696733775ffe4371, type: 3}
+    - {fileID: 1791259037341356, guid: d44958913db3153498664a6f1ff827df, type: 3}
+    - {fileID: 1791259037341356, guid: ab693aba2d68abe4cb3952b54bc36ed2, type: 3}
+    risposta: 1
   Medio: []
   Difficile:
   - parole:
-    - {fileID: 1403484621593790, guid: 317ac61b389012b4ebeba2b4a718ea70, type: 3}
-    - {fileID: 1244537245633408, guid: 8965057bb280b9c44ac257edbce04ec4, type: 3}
-    - {fileID: 1816623539300284, guid: e31897f3d75a9914c8bf371c4f79d8fd, type: 3}
-    - {fileID: 1011886283175208, guid: a8ce4ac2877850444bbd4b0462222257, type: 3}
-    - {fileID: 1667678256372452, guid: 3e9f64379e3fe8b479474c89e6b2fe40, type: 3}
+    - {fileID: 1791259037341356, guid: 77a7f66c6c0cadd4c9195839191c7300, type: 3}
+    - {fileID: 1791259037341356, guid: aa04523b6c07920419d288e04bd4ddf9, type: 3}
+    - {fileID: 1791259037341356, guid: 84501d8d69ed0c94da0707b4d5043c8e, type: 3}
+    - {fileID: 1791259037341356, guid: 8862ef687279d2346849c22fbab26d06, type: 3}
+    - {fileID: 1791259037341356, guid: 8134289e559470445936a9d5115d2b5e, type: 3}
+    - {fileID: 1791259037341356, guid: 9dc587ad03b6e2345b1f6f2274cbf0db, type: 3}
+    - {fileID: 1791259037341356, guid: b65ff4e5afb5ae94ca3f5992c8807a98, type: 3}
     risposta: 1
   - parole:
-    - {fileID: 1963151551625770, guid: 750613736a287fa46a8391f4f62035f8, type: 3}
-    - {fileID: 1493407159601656, guid: ae70d7db704cf424890674c64786cea6, type: 3}
-    - {fileID: 1425382383567614, guid: aaa52dcaee8b0fa4e9a6686e0b7424a4, type: 3}
-    - {fileID: 1719123922166248, guid: 133f1330190973f42aa8934876a3f2c1, type: 3}
-    - {fileID: 1959285572771690, guid: a93e93bf39d0c8f43940ce9b89326bea, type: 3}
-    - {fileID: 1856105034786670, guid: 752e771b03a5aa345bfea9eef099caec, type: 3}
+    - {fileID: 1791259037341356, guid: 9da57b169abb6674aa9d42e9a37cf228, type: 3}
+    - {fileID: 1791259037341356, guid: d936385542bbc824883fc11b97ad097f, type: 3}
+    - {fileID: 1791259037341356, guid: 0feee74c245de9a4f90dbfb6772acbe1, type: 3}
+    - {fileID: 1791259037341356, guid: a64bb9d124a37fc40b96e869e5091be4, type: 3}
+    - {fileID: 1791259037341356, guid: e9c082953c8a820449ffa7a13d3bc774, type: 3}
+    - {fileID: 1791259037341356, guid: 7261486c8fd59d34cba542bd6e89c6aa, type: 3}
+    - {fileID: 1791259037341356, guid: fc766994522697240ac42810696b56b6, type: 3}
+    - {fileID: 1791259037341356, guid: 20d377d019b385d4795c202b69b69529, type: 3}
+    risposta: 1
+  - parole:
+    - {fileID: 1791259037341356, guid: cc3adcc2e13355b49a900db1702da5de, type: 3}
+    - {fileID: 1791259037341356, guid: 767c2f18da7fdf84eba6cf411bdb5f55, type: 3}
+    - {fileID: 1791259037341356, guid: defe52e739a490f4c945ca87dbd3ff55, type: 3}
+    - {fileID: 1791259037341356, guid: a6d10ee58afadeb4e89d6f3a57bec679, type: 3}
+    - {fileID: 1791259037341356, guid: 7ba693289bb04b043b502394d445de21, type: 3}
+    - {fileID: 1791259037341356, guid: 3673798746de2c140970068c4f619937, type: 3}
     risposta: 0
   - parole:
-    - {fileID: 1218381333005998, guid: d25e6f6abc0ae554c9b1660e14eec3eb, type: 3}
-    - {fileID: 1407161005910040, guid: c6c76b9f912f33643a43e30bb8350eab, type: 3}
-    - {fileID: 1309709135525028, guid: 50bf75f7ff9a1d242833e4a37f619a92, type: 3}
-    - {fileID: 1653703472864266, guid: bd9794a820ad4af44b10280c680cb885, type: 3}
-    - {fileID: 1662679347608332, guid: dfc751c3075a3bb4d97ce803572ad0fc, type: 3}
-    - {fileID: 1561357693462348, guid: b5748b313f14a6947b4df9c38d76c233, type: 3}
-    - {fileID: 1868011972322100, guid: d865993818e90ce47ada72e091c735a1, type: 3}
-    risposta: 1
-  - parole:
-    - {fileID: 1434577823975586, guid: 4eac511ed71e6494bb867bced96a7e79, type: 3}
-    - {fileID: 1435983678481878, guid: 71176454479e10e4998ac766a5d75049, type: 3}
-    - {fileID: 1143426910537334, guid: e24e9d0977cdc574e802647feb24924c, type: 3}
-    - {fileID: 1598479064490976, guid: 5fe031fe245affa4a84b2fdb03090081, type: 3}
-    - {fileID: 1791259037341356, guid: 110fb1b5f13e08647978e542eb0b9597, type: 3}
-    - {fileID: 1857125127862152, guid: 6f991f3530c25b549946bf78b47640fd, type: 3}
-    - {fileID: 1589207423404076, guid: 434c29934ffd45046b5cc84f733a5478, type: 3}
-    risposta: 1
-  - parole:
-    - {fileID: 1151504517172780, guid: e66f57514b81a76429e4d62d72cad4ea, type: 3}
-    - {fileID: 1002436691782118, guid: d6b5b86c8d5048b469f7560e829ebda9, type: 3}
-    - {fileID: 1934507225266532, guid: 770cb066946fea4499fdaf41c63d4fab, type: 3}
-    - {fileID: 1658884605169082, guid: 9be2b3f2cd52e5f44923906738fcd529, type: 3}
-    - {fileID: 1290949836203034, guid: 0e81d81dabf3d2a4da50871a354f1745, type: 3}
-    - {fileID: 1700646302766390, guid: 72e965b344fe4d9459f6afb9f375ac9c, type: 3}
+    - {fileID: 1791259037341356, guid: dcb5aff763b5b044f99cfadbb0f27497, type: 3}
+    - {fileID: 1791259037341356, guid: c102c5b55b7d3454f9612410999655c0, type: 3}
+    - {fileID: 1791259037341356, guid: 7b529ea0a452b84429f10f25c492f94c, type: 3}
+    - {fileID: 1791259037341356, guid: 678e17ba398c24640ad6b770e3b23b4e, type: 3}
     risposta: 0
   - parole:
-    - {fileID: 1277429311354578, guid: ff5d4a47c3e52104b97f251f0adffc7c, type: 3}
-    - {fileID: 1967398952517918, guid: fdf0484ab6d3ef94c89a5ae0fa2f7b52, type: 3}
-    - {fileID: 1495827476079054, guid: 8c2bababdc18ecd49812e685846edb57, type: 3}
-    - {fileID: 1086244234507734, guid: 0f2253d4ab8f14f409ad5e8676d8d66d, type: 3}
-    - {fileID: 1413583766031090, guid: 6226007b39dee684eb901b416b2ef366, type: 3}
+    - {fileID: 1791259037341356, guid: ecaf76f0343cb4d47bd3ee63e5a905b1, type: 3}
+    - {fileID: 1791259037341356, guid: c32d3791d2b71c04f8db106e54de55ed, type: 3}
+    - {fileID: 1791259037341356, guid: c62bda2185619364d80fe354e15bff0a, type: 3}
+    - {fileID: 1791259037341356, guid: bd83799944329a84eb68cb8dcb024975, type: 3}
+    - {fileID: 1791259037341356, guid: 80fbea3b76601544aa1d0e7a2a597ef8, type: 3}
     risposta: 1
   - parole:
-    - {fileID: 1133145778004654, guid: 680e69c1fd8a0c245bef3bc93fce9b2f, type: 3}
-    - {fileID: 1965070977321330, guid: ea1a73ba6b3e7584193acb72e69a1c0a, type: 3}
-    - {fileID: 1978931045437346, guid: 03820d6c0d5414846a0063bdc2b6bcf7, type: 3}
-    - {fileID: 1946376047652890, guid: 2ff43cb4462b97f4492941f043d3d8ce, type: 3}
-    - {fileID: 1294025052465514, guid: 53c84d6e38525cb41950174d9a7807a8, type: 3}
-    - {fileID: 1551008495602156, guid: a7691620bcc06c945a74b2b5100a8dfe, type: 3}
-    - {fileID: 1111027760593288, guid: 5e49fbd266716b64ab9f1683dedc36ac, type: 3}
+    - {fileID: 1791259037341356, guid: 663c8e8f17e688447a360080b12a3d9c, type: 3}
+    - {fileID: 1791259037341356, guid: 1b4338ed8c39130458302eb81d427234, type: 3}
+    - {fileID: 1791259037341356, guid: 8c4515c7d818ac04f81e7c61da1bdc71, type: 3}
+    - {fileID: 1791259037341356, guid: 9c86d63f5f252e245b813c2689cecc7d, type: 3}
+    - {fileID: 1791259037341356, guid: 2cca9e61b375cef46b18b75c9c69ed81, type: 3}
+    risposta: 0
+  - parole:
+    - {fileID: 1791259037341356, guid: 702666f2d01d9bc4480e32aac0f70ab5, type: 3}
+    - {fileID: 1791259037341356, guid: 14ca4a5441475f544a7c2cd27b3d0a74, type: 3}
+    - {fileID: 1791259037341356, guid: 2428b4a06084b07429c018f869a37f77, type: 3}
+    - {fileID: 1791259037341356, guid: b1d5a23ea60ef6b45aa1960c0819e8d7, type: 3}
+    - {fileID: 1791259037341356, guid: cc399e3b5461668408064c4f08b22622, type: 3}
+    risposta: 0
+  - parole:
+    - {fileID: 1791259037341356, guid: 0308926378fc6dc43bff121055d6e465, type: 3}
+    - {fileID: 1791259037341356, guid: 924ab563db173ef479c8749f836999c4, type: 3}
+    - {fileID: 1791259037341356, guid: e0c1ab9091f919c4a8ece869f35397e9, type: 3}
+    - {fileID: 1791259037341356, guid: b74a68b5de55f1549bffa55fb1e3fa46, type: 3}
+    - {fileID: 1791259037341356, guid: 404351a42c9ca0a49a58a3c669207de1, type: 3}
     risposta: 1
   - parole:
-    - {fileID: 1495277005720696, guid: c8361d47447bb4a459ac04536c571fdf, type: 3}
-    - {fileID: 1246991254138014, guid: 829238503fbf2824fbb9401ca1e9582d, type: 3}
-    - {fileID: 1784286490658416, guid: 68745d206e9727e4d9b78bae61a5545e, type: 3}
-    - {fileID: 1345808286547812, guid: 8d500b21f4a7df44493b078d9ebe6d6b, type: 3}
-    risposta: 0
+    - {fileID: 1791259037341356, guid: 3591a989509977144a23cd9307b13f06, type: 3}
+    - {fileID: 1791259037341356, guid: ddd8f34b7da9da34d9e471a9820a91e5, type: 3}
+    - {fileID: 1791259037341356, guid: 57a29f937164b2e46bf425f6d06f2d16, type: 3}
+    - {fileID: 1791259037341356, guid: bd8b43c2b974b444b9aa51fa12a960e3, type: 3}
+    - {fileID: 1791259037341356, guid: d187972bc77c632438f14209dffd1347, type: 3}
+    - {fileID: 1791259037341356, guid: f0132c866dc357c4393d3ee2d108d862, type: 3}
+    - {fileID: 1791259037341356, guid: 9001e720348d69949a75ee5b634305b6, type: 3}
+    risposta: 1
   - parole:
-    - {fileID: 1378681427976812, guid: b40be53d9bd0d0348bbfc930b8e74003, type: 3}
-    - {fileID: 1753401905123220, guid: 20efddd36ed167840930f55356c43415, type: 3}
-    - {fileID: 1453533767763320, guid: 49c0c6d9f63c9e4438c6a85c4160db3d, type: 3}
-    risposta: 0
-  - parole:
-    - {fileID: 1942833969842268, guid: 017f6ddb67c1f734fa120ba583f3e23a, type: 3}
-    - {fileID: 1040332413981972, guid: b9c08c3a4a3e5044b9dc63d9a4238ef6, type: 3}
-    - {fileID: 1816623539300284, guid: e31897f3d75a9914c8bf371c4f79d8fd, type: 3}
-    - {fileID: 1120850369467316, guid: 6fb828cbd9c1523418202c6396a85f5b, type: 3}
-    - {fileID: 1264729669347418, guid: c9ae29b0a39d3a34ab4f855a0d3809eb, type: 3}
+    - {fileID: 1791259037341356, guid: a56636f41a62dab419893425d4ed02ac, type: 3}
+    - {fileID: 1791259037341356, guid: f20977831a2f7cd4999027ddd918e902, type: 3}
+    - {fileID: 1791259037341356, guid: 3d42b6260567bb74c959ec02991a8e9a, type: 3}
     risposta: 0
   panelCanTouch: {fileID: 1863404387997246}
   errorTrue: {fileID: 1772436479322290}
