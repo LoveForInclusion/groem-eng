@@ -784,7 +784,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: f5c09bbef8a80f042a983e934732096d, type: 3}
+  clip: {fileID: 8300000, guid: 4c6198e46b5537e4f97661235944fb0c, type: 3}
   delay: 0
   actions:
   - name: PinoFront

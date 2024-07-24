@@ -796,7 +796,7 @@ MonoBehaviour:
     targerWP: []
     stateLayer: 
     flip: 0
-  - name: AquilaOmbra
+  - name: Aquilaombra
     type: 0
     action: 0
     speed: 0
@@ -1674,7 +1674,7 @@ MonoBehaviour:
   clip: {fileID: 8300000, guid: 7050c6853ca6e5a47b3a730c4b880c87, type: 3}
   delay: 0
   actions:
-  - name: AquilaOmbra
+  - name: Aquilaombra
     type: 0
     action: 0
     speed: 7

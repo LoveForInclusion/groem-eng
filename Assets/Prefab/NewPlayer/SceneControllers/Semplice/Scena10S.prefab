@@ -70,7 +70,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: daa6faf0795c6844f95e0aff4d5a9a9f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 622239a9e19b4054da1742ec9cd20115, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -280,7 +280,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 13cbd4d84b4a5eb4bbef3eb64a2e482e, type: 3}
+  clip: {fileID: 8300000, guid: 574594d0c8afde54da32c71922752cd1, type: 3}
   delay: 0
   actions: []
 --- !u!1 &4368156849996921350
@@ -563,7 +563,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: cb86988cd68e99d4f81c50d9e7a6d19b, type: 3}
+  clip: {fileID: 8300000, guid: 0602de804033a2344b13656bef7881cb, type: 3}
   delay: 0
   actions: []
 --- !u!1 &5837257745902442540
@@ -846,7 +846,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: b1fcd48c1f17f6f4ebdb40bad8ef6f30, type: 3}
+  clip: {fileID: 8300000, guid: c0c0a940b7f38e748be4f0eb3ab5d347, type: 3}
   delay: 0
   actions: []
 --- !u!1 &5895203449482452432
@@ -1129,7 +1129,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 3418eae7c0556264695085097a9c8371, type: 3}
+  clip: {fileID: 8300000, guid: a395c2a0a097d9b468f979cd087829ef, type: 3}
   delay: 0
   actions: []
 --- !u!1 &6609437969348191427
@@ -1637,7 +1637,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 8b6a79f04c86c7d4bafdef941f943880, type: 3}
+  clip: {fileID: 8300000, guid: 38364878d5192ce4998d6a19b2cd0d26, type: 3}
   delay: 0
   actions:
   - name: CaneFront
@@ -1938,7 +1938,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 6d8515dcd7d983c49addf554835269b2, type: 3}
+  clip: {fileID: 8300000, guid: 3829f4ccd6600b6479b131874bd202cb, type: 3}
   delay: 0
   actions:
   - name: CaneFront
@@ -2240,6 +2240,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 79bb748a05b48b3479bc7abcdd04008b, type: 3}
+  clip: {fileID: 8300000, guid: aecbf0e61dc572240a5a4d84c1adefdd, type: 3}
   delay: 0
   actions: []
