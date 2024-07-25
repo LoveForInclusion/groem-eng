@@ -1210,7 +1210,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 7b308197e75e7d8408bf7e8f52300bc9, type: 3}
+  clip: {fileID: 8300000, guid: c8b19c3f6fb00c043b3826571d1946cf, type: 3}
   delay: 0
   actions:
   - name: PinoFront
@@ -1520,7 +1520,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 1263145203dcc5a439346fd0c23d6947, type: 3}
+  clip: {fileID: 8300000, guid: 9b1a646951b4aad479511786a26c773e, type: 3}
   delay: 0
   actions:
   - name: PinoFront

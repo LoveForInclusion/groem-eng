@@ -404,7 +404,7 @@ PrefabInstance:
     - target: {fileID: 7695955497891824998, guid: 5a9fec152a3ce4f439cb77845570f221,
         type: 3}
       propertyPath: m_Name
-      value: AquilaOmbra
+      value: Aquilaombra
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a9fec152a3ce4f439cb77845570f221, type: 3}
