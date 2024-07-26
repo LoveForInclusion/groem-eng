@@ -5149,8 +5149,9 @@ MonoBehaviour:
       type: 3}
   - parole:
     - {fileID: 1791259037341356, guid: 87e962268f37a5843939ec5d81184780, type: 3}
-    - {fileID: 1791259037341356, guid: 338eaedb85b18744ca7a51b79fe56334, type: 3}
     - {fileID: 1791259037341356, guid: 422d807997c12be4a85a4b3c23d004e1, type: 3}
+    - {fileID: 1791259037341356, guid: 338eaedb85b18744ca7a51b79fe56334, type: 3}
+    - {fileID: 1791259037341356, guid: 20aa5d002a292fd458f3f42282ab6559, type: 3}
     - {fileID: 1791259037341356, guid: 2982a3ab8e3305c4ca5c42c109761bc9, type: 3}
     risposteErrate:
     - {fileID: 1791259037341356, guid: d3197cdb93355cb478a98f90d15cb864, type: 3}
@@ -8571,7 +8572,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.36165628, y: 0.085}
   m_AnchorMax: {x: 0.637, y: 0.9232821}
-  m_AnchoredPosition: {x: 0.86553955, y: -2.3099823}
+  m_AnchoredPosition: {x: 0.86553955, y: -2.3099976}
   m_SizeDelta: {x: -5.485339, y: -1.1939392}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &222586876617705432

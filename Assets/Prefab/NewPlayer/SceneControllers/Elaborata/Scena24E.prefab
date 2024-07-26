@@ -852,17 +852,6 @@ MonoBehaviour:
   clip: {fileID: 8300000, guid: 2601aea9d430d60458a8bf038d278ab7, type: 3}
   delay: 0
   actions:
-  - name: Aquilaombra
-    type: 0
-    action: 0
-    speed: 7
-    distance: 0.1
-    startWP: StartAquila
-    targerWP:
-    - MiddleAquila
-    - EndAquila
-    stateLayer: 
-    flip: 0
   - name: Pinoside
     type: 0
     action: 1
