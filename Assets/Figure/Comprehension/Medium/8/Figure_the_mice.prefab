@@ -69,7 +69,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f8bdc994540c4cd46a5023bb59ded4d4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: bd0a81fda1f0a9a448ed321a8e12b5e8, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -150,7 +150,7 @@ MonoBehaviour:
   mute: 0
   touch_limit: 5
   my_touch: 0
-  audioTest: {fileID: 0}
+  audioTest: {fileID: 8300000, guid: a06890fb3fdcc054bad240020b21ae64, type: 3}
   playerFigureSpecial: {fileID: 0}
   animatorTasto: {fileID: 95864436499494954, guid: ff70f9492011ca14b9e62eac39e31455,
     type: 2}

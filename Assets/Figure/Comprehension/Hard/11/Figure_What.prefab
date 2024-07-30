@@ -150,7 +150,7 @@ MonoBehaviour:
   mute: 0
   touch_limit: 5
   my_touch: 0
-  audioTest: {fileID: 0}
+  audioTest: {fileID: 8300000, guid: 2b00890a76e524f44bc6cbf7e5773334, type: 3}
   playerFigureSpecial: {fileID: 0}
   animatorTasto: {fileID: 95864436499494954, guid: ff70f9492011ca14b9e62eac39e31455,
     type: 2}
