@@ -7010,9 +7010,6 @@ MonoBehaviour:
     - {fileID: 1791259037341356, guid: b360229c472e87345a285c28f87cb5ab, type: 3}
     - {fileID: 1791259037341356, guid: 7a85480a35a93b9428a9ea0dd15c720c, type: 3}
     - {fileID: 1791259037341356, guid: 9b6e9790a4482194a9a39cb8891b09be, type: 3}
-    - {fileID: 1612656027867776, guid: 1e47ca29c5bef6141adab963f3fefb50, type: 3}
-    - {fileID: 1098025392543818, guid: b95ce65b2d0ee8d489ca4f8df3327e7c, type: 3}
-    - {fileID: 1588301161213076, guid: 90674667f92f4d743a84c5c287d8ecae, type: 3}
     - {fileID: 1791259037341356, guid: ed04239e0eacd254c999520d548ae4e1, type: 3}
     risposteErrate:
     - {fileID: 1791259037341356, guid: f524d4aa45e683f4a92ee5569e704a8c, type: 3}
@@ -7375,7 +7372,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Il cattivissimo Groem
+  m_Text: The evil Groem
 --- !u!1 &1832469378849486
 GameObject:
   m_ObjectHideFlags: 0
@@ -8526,7 +8523,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: completa la frase
+  m_Text: Complete the sentence
 --- !u!1 &1997424692892816
 GameObject:
   m_ObjectHideFlags: 0

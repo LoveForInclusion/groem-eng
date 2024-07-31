@@ -3689,7 +3689,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Il cattivissimo Groem
+  m_Text: The evil Groem
 --- !u!1 &1482785966192466
 GameObject:
   m_ObjectHideFlags: 0
@@ -5747,7 +5747,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: vero falso
+  m_Text: True or false
 --- !u!1 &1763662392377382
 GameObject:
   m_ObjectHideFlags: 0
@@ -7245,7 +7245,7 @@ MonoBehaviour:
     - {fileID: 1791259037341356, guid: 6611e974184b8c741871323ef8f6e582, type: 3}
     - {fileID: 1791259037341356, guid: 4ca05189d323670448dc17002f2247bf, type: 3}
     - {fileID: 1791259037341356, guid: 4e6391121d2b4904bbc177c55f1a2180, type: 3}
-    risposta: 1
+    risposta: 0
   - parole:
     - {fileID: 1791259037341356, guid: d4205bcda9480124dbc090b1c7f26a59, type: 3}
     - {fileID: 1791259037341356, guid: e9e443f4f2380204e9cf496222b86592, type: 3}
@@ -7277,7 +7277,7 @@ MonoBehaviour:
     - {fileID: 1791259037341356, guid: a64bb9d124a37fc40b96e869e5091be4, type: 3}
     - {fileID: 1791259037341356, guid: e9c082953c8a820449ffa7a13d3bc774, type: 3}
     - {fileID: 1791259037341356, guid: 7261486c8fd59d34cba542bd6e89c6aa, type: 3}
-    - {fileID: 1791259037341356, guid: 20d377d019b385d4795c202b69b69529, type: 3}
+    - {fileID: 1791259037341356, guid: fc766994522697240ac42810696b56b6, type: 3}
     risposta: 1
   - parole:
     - {fileID: 1791259037341356, guid: cc3adcc2e13355b49a900db1702da5de, type: 3}
