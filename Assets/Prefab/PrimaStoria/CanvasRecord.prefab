@@ -8044,147 +8044,147 @@ MonoBehaviour:
   canv: {fileID: 82191581601165486}
   sceneFacile:
   - immagine: {fileID: 21300000, guid: be9148c35603d4bee9aa256970e1cf02, type: 3}
-    frase: Sette topolini giocavano a girotondo nel giardino di casa
+    frase: "Seven little mice played Ring a Ring-o\u2019Roses in the backyard"
   - immagine: {fileID: 21300000, guid: 74ec4e15fb4e01242ab0be51eb5cb3da, type: 3}
-    frase: Groem un gattaccio brutto e cattivo si era nascosto dietro un albero per
-      catturare i topolini
+    frase: Groem, an evil and bad cat, was hiding behind a tree to catch the mice
   - immagine: {fileID: 21300000, guid: cb95262e65b487b4faaacb2baea8040c, type: 3}
-    frase: "Pino il pi\xF9 piccolo dei topolini si accorse di Groem e grid\xF2"
+    frase: Pino, the smallest of the mice, noticed Groem and cried out
   - immagine: {fileID: 21300000, guid: 41dfd1ee44ba2ce4993c7c7591484ac8, type: 3}
-    frase: "Scappate scappate scappate c'\xE8 Groem"
+    frase: "Run! There\u2019s Groem!"
   - immagine: {fileID: 21300000, guid: cd28eda8b21d3e04db6289d08582c493, type: 3}
-    frase: "Groem cattur\xF2 tutti i topolini con un sacco e li port\xF2 via"
+    frase: Groem caught all the little mice with a sack and took them away.
   - immagine: {fileID: 21300000, guid: 8fe2be985f2fc84468b76642e45edfae, type: 3}
-    frase: "Solo Pino riusc\xEC a scappare gridando"
+    frase: 'Just Pino managed to escape shouting:'
   - immagine: {fileID: 21300000, guid: c7f13947eeeac104885bc69c27c18d8f, type: 3}
-    frase: Aiuto aiuto Groem ha preso i miei fratelli per cucinarli sopra i fornelli
+    frase: '"Help! Help! HELP!!! Groem caught my brothers to cook them on the stove"'
   - immagine: {fileID: 21300000, guid: 75c509d86efdb4d418638c359e837972, type: 3}
-    frase: Subito Pino corse dal vecchio Brambilla gridando
+    frase: 'Immediately Pino ran to the old Brambilla shouting:'
   - immagine: {fileID: 21300000, guid: cb05ed216d8730046b4c2c600f13e3cc, type: 3}
-    frase: Aiuto aiuto Groem ha preso i miei fratelli per cucinarli sopra i fornelli
+    frase: 'Brambilla came out of the kennel leaning on his cane and said:'
   - immagine: {fileID: 21300000, guid: c3d591e7f3683c34f8ff1324ce1678c6, type: 3}
-    frase: "Brambilla usc\xEC dalla cuccia appoggiato al suo bastone e disse"
+    frase: '"Help! Help! HELP!!! Groem caught my brothers to cook them on the stove"'
   - immagine: {fileID: 21300000, guid: b82275f3eaf78ba4298396b2d5739c5f, type: 3}
-    frase: Non posso aiutarti sono troppo vecchio per rincorrere Groem chiedi aiuto
-      alla volpe
+    frase: "I cannot help you, I\u2019m too old to chase Groem! Ask the fox for help"
   - immagine: {fileID: 21300000, guid: 49e57493fa7b68041af75e5aab8cb5a8, type: 3}
-    frase: "La volpe \xE8 astuta e intelligente"
+    frase: The fox is smart and clever
   - immagine: {fileID: 21300000, guid: 604e7f71ac7c55842a6f28afe8278f11, type: 3}
-    frase: Pino corse a casa della volpe gridando
+    frase: "Pino ran to the fox\u2019s house shouting"
   - immagine: {fileID: 21300000, guid: 0b9534ec19f24a343a839001730a8d68, type: 3}
-    frase: Aiuto aiuto Groem ha preso i miei fratelli per cucinarli sopra i fornelli
+    frase: '"Help! Help! HELP!!! Groem caught my brothers to cook them on the stove"'
   - immagine: {fileID: 21300000, guid: 0f35142ed87d2fd4eb994a345d06c5a0, type: 3}
-    frase: "La volpe usc\xEC dalla tana tossendo e disse"
+    frase: 'The fox came out of the den coughing and said:'
   - immagine: {fileID: 21300000, guid: 29e475adba938fb4f8baac10ab24eef1, type: 3}
-    frase: Non posso aiutarti sono troppo malata chiedi aiuto all'asino Codino
+    frase: '"I cannot help you, I am too ill, ask Codino the donkey for help"'
   - immagine: {fileID: 21300000, guid: e593eea297cde4046b13420ed0bbec1f, type: 3}
-    frase: "L'asino Codino \xE8 grande e grosso e sa tirare calci fortissimi"
+    frase: '"Codino the donkey is big and thick and he can kick really hard"'
   - immagine: {fileID: 21300000, guid: 7137f298dbe2a454eb7e81db26278306, type: 3}
-    frase: Pino corse veloce alla stalla gridando
+    frase: 'Pino ran fast to the barn shouting:'
   - immagine: {fileID: 21300000, guid: 2f56c94e06c0d2343bd927e389a29646, type: 3}
-    frase: Aiuto aiuto Groem ha preso i miei fratelli per cucinarli sopra i fornelli
+    frase: '"Help! Help! HELP!!! Groem caught my brothers to cook them on the stove"'
   - immagine: {fileID: 21300000, guid: bbe15603ffded314cb2cad03498fcbae, type: 3}
-    frase: "Codino pi\xF9 timido di un agnellino usc\xEC dalla stalla e disse"
+    frase: 'Codino, shyer than a lambkin, came out of the barn and said:'
   - immagine: {fileID: 21300000, guid: 8dc188f98967b2c4093c2cdb24bceeae, type: 3}
-    frase: Non posso aiutarti ho paura di Groem e dei suoi artigli chiedi aiuto alla
-      signora del cielo
+    frase: "\"I cannot help you, I\u2019m afraid of Groem and his claws. Ask the
+      Lady of the sky for help\""
   - immagine: {fileID: 21300000, guid: 0cc2f2ce04b4d754faf904bf9a4bb25f, type: 3}
-    frase: "La signora del cielo \xE8 forte e coraggiosa"
+    frase: '"The Lady of the sky is strong and brave"'
   - immagine: {fileID: 21300000, guid: ecd693c0cfe6ea54baa180410c0d1e90, type: 3}
-    frase: Pino corse disperato al nido dell'aquila gridando
+    frase: 'Pino ran desperately to the nest of the golden eagle shouting:'
   - immagine: {fileID: 21300000, guid: 27e66e4fa1fe56a49812d8b00cc9526d, type: 3}
-    frase: Aiuto aiuto Groem ha preso i miei fratelli per cucinarli sopra i fornelli
+    frase: '"Help! Help! HELP!!! Groem caught my brothers to cook them on the stove"'
   - immagine: {fileID: 21300000, guid: 5991d11b5bafbe746996f5333a6880db, type: 3}
-    frase: L'aquila fiera e superba non disse nulla
+    frase: The proud and haughty golden eagle said nothing.
   - immagine: {fileID: 21300000, guid: 0a586f9a6a4b36042820ba4ff10c4dc5, type: 3}
-    frase: "Apr\xEC le ali e vol\xF2 via"
+    frase: She spread her wings and flew away.
   - immagine: {fileID: 21300000, guid: a0057183dea50b34eb9fdbdf6b488278, type: 3}
-    frase: "Pino pianse disperato perch\xE8 nessuno lo voleva aiutare"
+    frase: Pino cried desperately because none wanted to help him.
   - immagine: {fileID: 21300000, guid: d9bb169dff85ad045be1b8ffdfbe8631, type: 3}
-    frase: All'improvviso Pino vide un'ombra sul selciato
+    frase: Suddenly Pino saw a shadow on the ground.
   - immagine: {fileID: 21300000, guid: 9b31ec2dcf877f14fbf45e25b1d22c35, type: 3}
-    frase: Pino vide nel cielo l'aquila che tornava e teneva stretto tra i suoi artigli
-      un sacco
+    frase: Pino saw in the sky the eagle coming back with a sack in her claws.
   - immagine: {fileID: 21300000, guid: a61f5312649b5c044ae34759113e4feb, type: 3}
-    frase: "L'aquila lasci\xF2 cadere il sacco con i sei topolini"
+    frase: The eagle dropped the sack with the six mice.
   - immagine: {fileID: 21300000, guid: 929e46abc79410c479396bf0ca8f2c32, type: 3}
-    frase: "Subito Pino liber\xF2 i topolini gridando evviva evviva i miei fratelli
-      sono salvi"
+    frase: 'Immediately, Pino freed the mice shouting: "hurray hurray my little brothers
+      are safe!"'
   - immagine: {fileID: 21300000, guid: fddde50c2821e4a4e9a6839e7d532dcd, type: 3}
-    frase: Tutti i topolini si abbracciarono felici
+    frase: The little mice hugged each other happily.
   - immagine: {fileID: 21300000, guid: ce6e7921ddc976f4984a5bdadc5ab16b, type: 3}
-    frase: "Mentre l'aquila apr\xEC le sue grandi ali e volava via in alto nel cielo"
+    frase: As the golden eagle opened her great wings and flew away high into the
+      sky.
   sceneDifficile:
   - immagine: {fileID: 21300000, guid: a0ded6a71e9816845abdaf6a1ffba885, type: 3}
-    frase: Era mattina e sette topolini giocavano a girotondo nel giardino di casa
+    frase: "It was morning and seven little mice played Ring a Ring-o\u2019Roses
+      in the backyard."
   - immagine: {fileID: 21300000, guid: 2af9dabf652f0df48baa379ac128e6ab, type: 3}
-    frase: Dietro un albero nascosto dalle foglie c'era Groem un gattaccio brutto
-      e pericoloso con due occhi verdi cattivi
+    frase: Behind a tree, hidden by leaves, was Groem an ugly and dangerous cat with
+      two naughty green eyes.
   - immagine: {fileID: 21300000, guid: f3a861b5df127a140873effd68731f2f, type: 3}
-    frase: "Pino il pi\xF9 piccolo dei topolini si accorse del gattaccio e grid\xF2
-      scappate scappate scappate c'\xE8 Groem"
+    frase: "Pino, the smallest of the mice, noticed Groem and cried out: \"Run! there\u2019s
+      Groem\"."
   - immagine: {fileID: 21300000, guid: 65b56e26f193d724990f1ca72b517ba8, type: 3}
-    frase: "Come un fulmine Groem cattur\xF2 tutti i topolini con un sacco e li port\xF2
-      via"
+    frase: 'Quick as lightning, Groem captured all the little mice with a sack and
+      took them away. '
   - immagine: {fileID: 21300000, guid: 70506db77108460478d1fe735b825053, type: 3}
-    frase: "Solo Pino riusc\xEC a scappare gridando aiuto aiuto Groem ha preso i
-      miei fratelli per cucinarli sopra i fornelli"
+    frase: 'Just Pino managed to escape shouting: "Help! Help! HELP!!! Groem caught
+      my brothers to cook them on the stove" .'
   - immagine: {fileID: 21300000, guid: f1243a833d6e93441b70e638243a418f, type: 3}
-    frase: Subito Pino corse dal vecchio Brambilla gridando
+    frase: 'Immediately Pino ran to the old Brambilla shouting:'
   - immagine: {fileID: 21300000, guid: e9c679fc4d8629b4697d89fbc7125e8b, type: 3}
-    frase: Aiuto aiuto Groem ha preso i miei fratelli per cucinarli sopra i fornelli
+    frase: '"Help! Help! HELP!!! Groem caught my brothers to cook them on the stove"'
   - immagine: {fileID: 21300000, guid: e74546bf62c88bb4088cce07dc178132, type: 3}
-    frase: "Brambilla usc\xEC dalla cuccia appoggiato al suo bastone con un berretto
-      di lana sulla testa una sciarpa rossa al collo e disse"
+    frase: 'Brambilla came out of the kennel leaning on his cane, with a woolen hat
+      on his head and a red scarf and said:'
   - immagine: {fileID: 21300000, guid: 0ada693ee0257384c96be4db92dde4f2, type: 3}
-    frase: "Non posso aiutarti sono troppo vecchio per rincorrere Groem chiedi aiuto
-      alla volpe che \xE8 astuta e intelligente"
+    frase: "\"I cannot help you, I\u2019m too old to chase Groem! Ask the fox for
+      help, she is smart and clever\"."
   - immagine: {fileID: 21300000, guid: a27ca9e97054d8949904c9170e2040b9, type: 3}
-    frase: Pino corse senza fermarsi a casa della volpe gridando
+    frase: "Pino ran without stopping to the fox\u2019s house shouting:"
   - immagine: {fileID: 21300000, guid: bcb108e2e1509654b9f1b9d7da617b7f, type: 3}
-    frase: Aiuto aiuto Groem ha preso i miei fratelli per cucinarli sopra i fornelli
+    frase: '"Help! Help! HELP!!! Groem caught my brothers to cook them on the stove"'
   - immagine: {fileID: 21300000, guid: 14b4622c230457540abe55ba3a47c0e0, type: 3}
-    frase: "La volpe usc\xEC dalla tana con uno scialletto di lana sulle spalle gli
-      occhiali sul naso e tossendo disse"
+    frase: 'The fox came out of the den with a woolen shawl over her shoulders, goggles
+      on her  nose and coughing and said:'
   - immagine: {fileID: 21300000, guid: de0020559cb0dbc40aea7849e5281487, type: 3}
-    frase: Non posso aiutarti sono troppo malata
+    frase: "\"I cannot help you, I\u2019m too ill\""
   - immagine: {fileID: 21300000, guid: d26f32a9b6deadd47977f6c219f55749, type: 3}
-    frase: "Chiedi aiuto all'asino Codino \xE8 grande e grosso e sa tirare calci
-      fortissimi"
+    frase: '"Ask Codino the donkey for help, he is big and thick and he can kick
+      really hard!"'
   - immagine: {fileID: 21300000, guid: 14e0d689ec4510f45942e538376837ab, type: 3}
-    frase: Pino corse veloce come un fulmine alla stalla gridando
+    frase: 'Pino ran as fast as lightning to the barn, shouting:'
   - immagine: {fileID: 21300000, guid: 1e9fa4661ec5c3a45a38226480c883a1, type: 3}
-    frase: Aiuto aiuto Groem ha preso i miei fratelli per cucinarli sopra i fornelli
+    frase: '"Help! Help! HELP!!! Groem caught my brothers to cook them on the stove"'
   - immagine: {fileID: 21300000, guid: 6026a144b61e8054f914d67b678af6e0, type: 3}
-    frase: "L'asino Codino pi\xF9 timido di un agnellino usc\xEC dalla stalla con
-      le orecchie abbassate e la coda tra le gambe e disse"
+    frase: 'Codino, shyer than a lambkin, came out of the barn with lowered ears
+      and his tail between his legs and said:'
   - immagine: {fileID: 21300000, guid: 685eca67b8fe12b4e938a06566a5b04e, type: 3}
-    frase: "Non posso aiutarti ho paura di Groem e dei suoi artigli chiedi aiuto
-      alla signora del cielo che \xE8 forte e coraggiosa"
+    frase: "\"I cannot help you, I\u2019m afraid of Groem and his claws, ask the
+      Lady of the sky for help, she is strong and brave\""
   - immagine: {fileID: 21300000, guid: 2e05c33469a09d7428b0f10cc5841fa6, type: 3}
-    frase: "Pino sempre pi\xF9 spaventato corse al nido dell'aquila reale gridando"
+    frase: 'Pino, more and more scared, ran desperately to the nest of the golden
+      eagle shouting:'
   - immagine: {fileID: 21300000, guid: e56de2d7a1f1699458664aecbf8ae818, type: 3}
-    frase: Aiuto aiuto Groem ha preso i miei fratelli per cucinarli sopra i fornelli
+    frase: '"Help! Help! HELP!!! Groem caught my brothers to cook them on the stove"'
   - immagine: {fileID: 21300000, guid: f4e963a75a9e8034b86664d01988f736, type: 3}
-    frase: "L'aquila reale fiera e superba guard\xF2 dritto pino negli occhi"
+    frase: The proud and haughty golden eagle, stared Pino into his eyes.
   - immagine: {fileID: 21300000, guid: 1f7c039b6e2a6104d94c7034db3f3cd5, type: 3}
-    frase: "Poi apr\xEC le sue grandi ali e vol\xF2 via in silenzio"
+    frase: Then she spread her big wings and silently flew away.
   - immagine: {fileID: 21300000, guid: 14eaa7c828aed0c42a3c2a49876bd96e, type: 3}
-    frase: "Il piccolo Pino piangeva disperato e pensava perch\xE8 nessuno vuole
-      aiutarmi che cosa posso fare"
+    frase: "Little Pino cried desperately and he thought: \"Why won\u2019t anybody
+      help me? What can I do?\""
   - immagine: {fileID: 21300000, guid: d46d4658ef7abc44d88e4b68f8b6b0c8, type: 3}
-    frase: All'improvviso Pino vide un'ombra sul selciato
+    frase: Then Pino saw a shadow on the ground.
   - immagine: {fileID: 21300000, guid: b6841a8d720ecb04e950bea5162dfc0f, type: 3}
-    frase: "Pino alz\xF2 la testa e vide nel cielo l'aquila che tornava e teneva
-      stretto tra i suoi artigli un sacco"
+    frase: Pino raised his head to the sky and saw the eagle coming back and holding
+      tightly in its talons a sack.
   - immagine: {fileID: 21300000, guid: cb1af163cc4f70544a72ca5eddd3072c, type: 3}
-    frase: "L'aquila lasci\xF2 cadere il sacco con i sei topolini"
+    frase: The eagle dropped the sack with the six mice.
   - immagine: {fileID: 21300000, guid: 7ec29228bcda1ca41b883c8adfc19f4d, type: 3}
-    frase: "Subito Pino liber\xF2 i topolini gridando evviva evviva i miei fratellini
-      sono salvi"
+    frase: 'Immediately, Pino freed the mice shouting: hurray hurray my little brothers
+      are safe!'
   - immagine: {fileID: 21300000, guid: 013489d9263163a4390c634d64d797a7, type: 3}
-    frase: Tutti i topolini si abbracciarono felici mentre la signora del cielo apriva
-      le sue grandi ali e se ne volava contenta in alto nel cielo
+    frase: All the little mice hugged each other happily as the golden eagle opened
+      her great wings and flew away, contentedly, high into the sky.
   pref: {fileID: 1808994918895400}
   father: {fileID: 1422182466760212}
   pannelloModificaNome: {fileID: 1046951087768966}
