@@ -2017,7 +2017,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 42e6d3a1993ee4b4288d8e2e0c90e478, type: 3}
+  clip: {fileID: 8300000, guid: d21fd3bf21200674c8f04d3df4918c01, type: 3}
   delay: 0
   actions:
   - name: PinoFront
@@ -3689,7 +3689,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8e356d5d7b0034cbfb5267faafa6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 42e6d3a1993ee4b4288d8e2e0c90e478, type: 3}
+  clip: {fileID: 8300000, guid: e6425dad686064f449833ecb1562550c, type: 3}
   delay: 0
   actions:
   - name: PinoFront

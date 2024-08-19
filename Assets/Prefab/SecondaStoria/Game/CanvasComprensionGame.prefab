@@ -5407,7 +5407,7 @@ MonoBehaviour:
     - {fileID: 1791259037341356, guid: e0bb6d900d1ff4c47a380a7355f6bca0, type: 3}
     - {fileID: 1791259037341356, guid: aa7e949cde6585e4fab441b0bae2b7e7, type: 3}
     - {fileID: 1791259037341356, guid: 1f74ac9e04741f847ba3f5968cc92972, type: 3}
-    - {fileID: 1791259037341356, guid: 1d051e8dacfcdcd4da14eb308f7bfb7e, type: 3}
+    - {fileID: 1791259037341356, guid: c0d3650852c13bc4db509251cf849770, type: 3}
     risposteErrate:
     - {fileID: 1791259037341356, guid: 68bb065364660b540908d287be2598e4, type: 3}
     - {fileID: 1791259037341356, guid: aa3b7f4869dc03b4c89e0d45e6454681, type: 3}
@@ -5457,7 +5457,7 @@ MonoBehaviour:
     - {fileID: 1791259037341356, guid: 4287714742b9e8f4180ef5a889eb6855, type: 3}
     - {fileID: 1791259037341356, guid: 7f839fe49df301143977b36b561274af, type: 3}
     risposteErrate:
-    - {fileID: 1791259037341356, guid: 3fb70b8746dafb144bd6278562cbcf1f, type: 3}
+    - {fileID: 1791259037341356, guid: d8d595b3faf719545bae64cff6a1472e, type: 3}
     - {fileID: 1791259037341356, guid: 3fb70b8746dafb144bd6278562cbcf1f, type: 3}
     - {fileID: 1791259037341356, guid: 8e9bc13796967bd45b7608914c3f71a7, type: 3}
     rispostaCorretta: {fileID: 1791259037341356, guid: aad9ed46f97f32e439c23df11fe7450d,
